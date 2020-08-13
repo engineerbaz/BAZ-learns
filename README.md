@@ -37,6 +37,30 @@ Up-to-date training and field experience are recommended.
 - [OCI User Guide (PDF)](https://docs.cloud.oracle.com/en-us/iaas/pdf/ug/OCI_User_Guide.pdf)
 - Oracle Cloud Infrastructure Cloud Operations Associate
 
+
+Must do
+OCI Foundations Training (L100)
+OCI Advanced training (L200)
+Documentation is your friend
+- [Just-in-time series ](https://apexapps.oracle.com/pls/apex/f?p=44785:141:101016828286729::::P141_PAGE_ID,P141_SECTION_ID:521,3648)(walk through setup of services)
+- [Architecting OCI solutions ](https://apexapps.oracle.com/pls/apex/f?p=44785:141:106064013608953::::P141_PAGE_ID,P141_SECTION_ID:521,3647)(combining services into solutions)
+
+Additional resources for more basic knowledge around OCI
+- [Service introduction series ](https://apexapps.oracle.com/pls/apex/f?p=44785:141:101016828286729::::P141_PAGE_ID,P141_SECTION_ID:521,3649)(10 minute overviews)
+- [Business essential eLearning](https://apexapps.oracle.com/pls/apex/f?p=44785:141:101016828286729::::P141_PAGE_ID,P141_SECTION_ID:521,3644) (overview of the market and solutions)
+
+
+
+
+
+
+
+
+
+
+
+
+
 -----------------------
 
 ## Short Q/A
