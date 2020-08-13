@@ -39,9 +39,9 @@ Up-to-date training and field experience are recommended.
 
 
 Must do
-OCI Foundations Training (L100)
-OCI Advanced training (L200)
-Documentation is your friend
+- [OCI Foundations Training (L100)](https://www.oracle.com/cloud/iaas/training/foundation.html) 
+- [OCI Advanced training (L200)](https://www.oracle.com/cloud/iaas/training/advanced.html)
+- Documentation is your friend
 - [Just-in-time series ](https://apexapps.oracle.com/pls/apex/f?p=44785:141:101016828286729::::P141_PAGE_ID,P141_SECTION_ID:521,3648)(walk through setup of services)
 - [Architecting OCI solutions ](https://apexapps.oracle.com/pls/apex/f?p=44785:141:106064013608953::::P141_PAGE_ID,P141_SECTION_ID:521,3647)(combining services into solutions)
 
@@ -50,16 +50,8 @@ Additional resources for more basic knowledge around OCI
 - [Business essential eLearning](https://apexapps.oracle.com/pls/apex/f?p=44785:141:101016828286729::::P141_PAGE_ID,P141_SECTION_ID:521,3644) (overview of the market and solutions)
 
 
-
-
-
-
-
-
-
-
-
-
+Try it out
+oracle.com/cloud/free/
 
 -----------------------
 
