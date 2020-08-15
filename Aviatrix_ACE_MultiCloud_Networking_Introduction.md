@@ -48,3 +48,8 @@ Also Partners & integrations
 For Operations = Terraform, Ansible, Splunk Datadog
 - For Infrastracture = AWS, Azure, GCP & OCI
 - For Security - Fortinet, PaloAlto, CheckPoint
+
+
+===============
+
+https://www.youtube.com/watch?v=rRfeop2y_Ps
