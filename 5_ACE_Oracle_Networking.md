@@ -65,3 +65,11 @@ Challenges
 These Challenges can be dealt with 
 - Transit (hub & Spoke)
 - Transitive Routing
+
+- Basic VCN peering (Within a region)
+- Remote Peering (across region)
+
+
+
+-------------------------
+202008170139
