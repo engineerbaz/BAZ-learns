@@ -68,6 +68,9 @@
 - Partner Interconnect
   - 50Mbps to 10Gbps 
 
+### Dedicated Interconnect
+- Enables you to connect your existing network to your VPC network through a highly available, low latency, Enterprise grade connection.
+  
 
 
 
