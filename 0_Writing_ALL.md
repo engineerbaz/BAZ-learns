@@ -149,6 +149,7 @@ These Challenges can be dealt with
 
 # 6_ACE_MCNA
 - Multi Cloud Network Architecture
+- Skillset gap is evident across the board
 - Some looks similar but different in On-premises Data Center & Public Cloud
 
 | Construct                      | On-prem           | AWS                   | Azure                  | GCP                | OCI                         |
