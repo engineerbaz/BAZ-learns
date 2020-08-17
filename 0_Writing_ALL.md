@@ -146,9 +146,15 @@ These Challenges can be dealt with
 
 # 6_ACE_MCNA
 - Multi Cloud Network Architecture
-- 
-- 
+- Some looks similar but different in On-premises Data Center & Public Cloud
 
+| Construct                      | On-prem           | AWS                   | Azure                  | GCP                | OCI                         |
+| :----------------------------- | :---------------- | :-------------------- | :--------------------- | :----------------- | :-------------------------- |
+| **Physical DC in region**      | DC                | Availablity Zone (AZ) | AZ                     | Zone               | Availablity Domain (AD)     |
+| **Logical Isolation in Cloud** | Tenant/VRF        | Virtual Private Cloud | Virtual Network (VNet) | VPC                | Virtual Cloud Network (VCN) |
+| **VM / Server**                | Server  /VM       | AMI/EC2               | VM                     | VM                 | VM                          |
+| **Private Link to On-prem DC** | DCI               | DirectConnect         | ExpressRoute           | Cloud interconnect | FastConnect                 |
+| **Multi-Tenant**               | Tenant / Customer | Account               | Subscription           | Project            | Compartment                 |
 
 
 
