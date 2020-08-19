@@ -221,7 +221,12 @@ Cloud Core
 - With this Security Layer for all CSP
 - Operations for Global Visibiity
 
-
+### Focus Area Cloud Network 
+- Cloud Ops & Visibiity
+  - Connecting to Cloud Network
+  - Tansit Network
+  - Security: NGFW + Internet
+- End to End Network Correctness
 
 
 
