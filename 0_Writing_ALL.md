@@ -180,7 +180,10 @@ These Challenges can be dealt with
   
 ### Cloud 3.0
 - 2019 & beyond
-- Enterprise adop
+- Enterprise adopt and need control
+  - Operation, Visibiity, Security, goverence & Automation
+- Multi Cloud & Multi-Tenant
+  - Primary, Secondary & Partner/SaaS
 
 
 
