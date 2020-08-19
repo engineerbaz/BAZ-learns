@@ -162,7 +162,24 @@ These Challenges can be dealt with
 
 
 
+## Evolution of Public Cloud
 
+### Cloud 1.0
+- 2006 - 2014
+- Agile process & little goverence
+- Cloud provider emerge
+- startups born
+  
+### Cloud 2.0
+- 2014 - 2019
+- Terraform launched
+- CSPs evolved
+- Cloud First initiative 
+- Multi Cloud breaches
+- Public Cloud certification
+  
+### Cloud 3.0
+- 2019
 
 
 
