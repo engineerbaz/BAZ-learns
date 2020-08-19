@@ -185,6 +185,45 @@ These Challenges can be dealt with
 - Multi Cloud & Multi-Tenant
   - Primary, Secondary & Partner/SaaS
 
+## Customer Challenges in Public Cloud
+- Solution: Cloud Agnostic Reference Architecture
+
+### Go Build
+- Automate, Orchestrate & Abstract
+#### Vendor Lock Interconnect
+- Multi-Vendor ready
+### Blackbox 
+- Ops, Visibiity control
+- Aviatrix allow controls
+  
+### Trust
+- Secure
+- Encrypt
+- All CSP says its secured (Like DirectConnect)
+- Aviatrix is Zero trust model
+
+## MCNA
+### Cloud Networking
+- Cloud Access 
+  - Cloud Ingress/Egress
+  - Data Center, Branch, Offices, Users
+
+Cloud Core
+- Common Global Transit Layer
+  - Intra & Inter Cloud Networking
+    - Performance , Scale, Availablity
+- Cloud Application Layer
+  - Virtual Data Center
+    - VPC, VNet, VCN, etc 
+
+### Multi Cloud Network Architecture
+- All Public CSPs will be treated in an unified way
+- With this Security Layer for all CSP
+- Operations for Global Visibiity
+
+
+
+
 
 
 
