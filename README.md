@@ -5,15 +5,7 @@ Repo for Learning plan
 
 # 1Z0-1067-F - Oracle Cloud Infrastructure 2019 Cloud Operations Associate 
 
-Exam Description:
-
-```
-An Oracle Cloud Infrastructure 2019 Certified Cloud Operations Associate is has demonstrated 
-hands-on experience and knowledge required to Automate Cloud tasks, Tune Performance, Troubleshoot, 
-manage cost, manage security and compliance policies, Monitor and Alert OCI, Implement Data Retention
-and Archival, creating shell scripts with the Command Line Interface (CLI) and design 
-Cloud-scale Agility on OCI.
-```
+ 
 
 Up-to-date training and field experience are recommended.
 
