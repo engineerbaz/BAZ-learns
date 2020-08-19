@@ -179,7 +179,8 @@ These Challenges can be dealt with
 - Public Cloud certification
   
 ### Cloud 3.0
-- 2019
+- 2019 & beyond
+- Enterprise adop
 
 
 
