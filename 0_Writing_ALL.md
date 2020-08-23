@@ -249,6 +249,54 @@ Multi Cloud & Multi Account
 ## Aviatrix Gateway
 - Software on Cloud instance
 - Data Plane
+- Can be deployed as needed (based on number of VPCs, features)
+- these Gateways are multi purpose (VPN, NAT, Transit)
+
+
+## Native Cloud Construct 
+- Basic Cloud Construct
+
+
+Cloud Physical infrastructure & Third Party physical connections
+
+- Can be connetced to On-premises DC
+
+
+## Core features
+1. Intelligent Orchestration, Control multi Account
+2. Advanced Networking Multi-Region & Multi-Cloud 
+3. High Performance Encryption (Avoid limitation of native 1.25Gbps)
+4. Site to Cloud / On-prem
+   1. Ability to run IPSec tunnel
+5. CloudWAN
+   1. Special Case
+   2. Cisco Routers need seamless Connectivity & Centralized enviornment
+6. Smart SAML user VPN 
+   1. SAML code Built
+   2. Native SAML interaction
+7. Secure Egress/ Ingress
+8. Firewall Network
+   1. Any 3rd party FW
+9.  Operational Task
+    1.  Co-Polit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
