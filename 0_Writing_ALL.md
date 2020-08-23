@@ -334,7 +334,75 @@ Only Azure & AWS support Transit solutions </br>
   - Scale out repeatable Architecture
   - End-to-End network awareness
   - Simplified Service Chaining (NGFW)
-  - 
+  - Operational Visibiity & troubleshooting
+    - Building is day 1st job but Operation is day two that is forever
+
+## Aviatrix Transit Network
+Three Layers & Two Operations (Controller & Gateways)
+- Access
+- Transit
+  - All Transit VPCs of AWS/Azure/GCP
+- Application
+  - VPCs / VNets
+
+### BGP Route Approval
+- Can explicitly approve any BGP-learned route from On-prem into cloud network
+- Prevent unwanted advertisement of Routes (0/0)
+- New routes arrival > Transit GW reports > Email to admin > Admin approves after logging controller then sent to spoke VPC to implement
+
+### High Performance Encryption
+- Public cloud untrusted  () > Aviatrix DataPath Encryption (DirectConnect in AWS / Azure ExpressRoute)
+- Regular IPSec is only of 1.25Gbps 
+  - When tunnel builds it uses only one core 
+- Using HPE (High Performance Encryption) mode , all the cores can be used
+- Utilized all links (70Gbps)
+- Intra cloud
+  - VPC to VPC /VNet to VNet
+  - 70Gbps using DataPath 
+- Transit to On-prem
+  - Line Rate (Gbps)
+  - AWS DirectConnect/ Azure ExpressRoute
+- Inter Cloud  
+  - AWS IGW to Azure IGW
+  - Line Rate (Gbps)
+
+### FQDN Egress Filter
+- Fully Qualified Domain Name
+- Workload require internet access    
+  - GitHub
+  - Download patches
+  - Communication with internet
+- This is unsecure , need to be secured
+  - Using NAT Gateway 
+    - Its requires to have rules 
+    - Centrally managed by the controller & execution by an Aviatrix Gateway
+    - Filters internet bound Egress traffic initiated u=in VPCs
+    - Filters any TCP, UDP 
+    - can also white/black list any host 
+    - supports wildcard & tags 
+    - supports both public or private network Filtering
+    - supports instances in private/public Subnets
+    - NAT also workable
+
+
+### Ingress security
+- AWS GuardDuty is a threat detection (IDS)
+- Doesnt take any option, just inform
+**- Aviatrix GuardDuty Enforcement**
+  - Orchestration of VPC Ingress Routing
+  - Programmatically pulls threat intelligence form GuardDuty
+  - Programmatically creates Filtering Table in Aviatrix Gateway based on GuardDuty intelligence and/or FQDN Egress
+
+
+
+
+    - 
+
+
+
+
+
+
 
 
 
