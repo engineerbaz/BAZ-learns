@@ -20,5 +20,6 @@
   
 
   -- 
-  Hammad Siddiqi 
-  202008152000 - 2100
+By: Hammad Siddiqi 
+Via: Lincoln Corner Karachi
+On:  202008152000 - 2100
