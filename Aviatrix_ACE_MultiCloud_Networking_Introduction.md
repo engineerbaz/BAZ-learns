@@ -53,3 +53,5 @@ For Operations = Terraform, Ansible, Splunk Datadog
 ===============
 
 https://www.youtube.com/watch?v=rRfeop2y_Ps
+
+https://www.youtube.com/watch?v=2fmRuiIFG-E
