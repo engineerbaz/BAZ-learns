@@ -320,6 +320,22 @@ Only Azure & AWS support Transit solutions </br>
   - No native Transit solutions
   - Promotes 3rd party appliance based transit 
 
+**Non-Aviatrix 3rd party Transit Networking solutions**
+- Manage IPSec
+- Again 1.25Gbps per tunnel
+- ECMP not supported
+- Managed BGP
+- troubleshooting Complexity
+
+## Characteristics of Aviatrix Transit Architecture
+- Well rounded Architecture
+  - Centrally managed 
+  - Robust Connectivity
+  - Scale out repeatable Architecture
+  - End-to-End network awareness
+  - Simplified Service Chaining (NGFW)
+  - 
+
 
 
 
