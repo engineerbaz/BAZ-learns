@@ -281,6 +281,54 @@ Cloud Physical infrastructure & Third Party physical connections
     1.  Co-Polit
 
 
+## Main Capabilities
+- Transit
+- Security
+- Automation
+- Operations
+
+## 1. Transit Networking
+- Native VPC / VNet Peering (
+  - Not scalable
+  - Complexe
+  - Difficult in troubleshooting
+  - No network Correctness
+
+### Native Transit Routing Option 
+All CSPs (AWS, Azure, GCP & OCI) support native peering </br>
+Only Azure & AWS support Transit solutions </br>
+**Transit solutions** </br>
+
+- AWS Transit Gateway 
+  - Lack of Visibiity
+  - Cant peer within region
+  - flat Architecture
+  - no security controls
+  - limited BGP support
+- Azure - Via ER Edge Router
+  - Lack of Visibiity, control & Severe noisy neighbor
+- Azure - Azure Firewall
+  - Lack of Visibiity, requires NAT & Load Balancer
+- Azure - Virtual WAN
+  - Lack of Visibiity, controls,
+  - 2oo routes limit (From cloud to On-prem) 
+  - Costly (need to buy all features)
+- GCP - None
+  - No native Transit solution
+  - Promotes use of single VPC for everything and/or VPC peering
+- OCI - None  
+  - No native Transit solutions
+  - Promotes 3rd party appliance based transit 
+
+
+
+
+
+
+
+
+
+
 
 
 
