@@ -233,6 +233,23 @@ Cloud Core
 
 # 7_ACE_Aviatrix_Features_01.md 
 
+- Born in the Cloud, For the Cloud
+- Built into the Cloud, Not on the Cloud
+
+## Aviatrix Controller
+- Software on Cloud instance
+- available in every market place 
+- For Management, Orchestration & Control Plane
+- One Controller for all clouds (AWS, Azure, GCP, OCI)
+- Also it is entry point adn browser based console
+- Terraform entry point
+
+Multi Cloud & Multi Account
+
+## Aviatrix Gateway
+- Software on Cloud instance
+- Data Plane
+
 
 
 
