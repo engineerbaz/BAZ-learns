@@ -491,7 +491,13 @@ Azure has two solutions
 Security domain are used for isolation but sometimes we  nned allow traffic withing VPCs
 These traffic routed via Aviatrix Firewall
 
-## Aviatrix Azure Native Peering
+## Aviatrix Azure Native Peering FireNet
+- Active / Active Firewall (Maximizing througput)
+- Spoke VPC inspection policy for easier Management
+- No Encryption without aviatrix GW in Spoke VNet
+
+
+## single/Multi-Region Multi-Cloud
 
 
 
