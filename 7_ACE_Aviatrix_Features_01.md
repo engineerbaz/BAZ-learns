@@ -1,7 +1,9 @@
-
+# 7_ACE_Aviatrix_Features_01
 
 - Born in the Cloud, For the Cloud
 - Built into the Cloud, Not on the Cloud
+
+Focus on solving common networking problems faced by enterprises on their public cloud journey while providing a common control plane that provides multi-account/multi-cloud automation, advanced transit services, advanced security services, advanced troubleshooting capabilities, and unparalleled visibility that the enterprise needs.
 
 ![Aviatrix Overview](https://docs.aviatrix.com/_images/aviatrix_overview2.png)
 
