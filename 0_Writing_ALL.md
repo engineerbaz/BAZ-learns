@@ -252,10 +252,8 @@ Multi Cloud & Multi Account
 - Can be deployed as needed (based on number of VPCs, features)
 - these Gateways are multi purpose (VPN, NAT, Transit)
 
-
 ## Native Cloud Construct 
 - Basic Cloud Construct
-
 
 Cloud Physical infrastructure & Third Party physical connections
 
@@ -394,9 +392,37 @@ Three Layers & Two Operations (Controller & Gateways)
   - Programmatically creates Filtering Table in Aviatrix Gateway based on GuardDuty intelligence and/or FQDN Egress
 
 
+============================================================================================================
+
+# 8_ACE_Aviatrix_Features_Overview_02.md
 
 
-    - 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
