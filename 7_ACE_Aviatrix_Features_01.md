@@ -35,7 +35,7 @@ Cloud Physical infrastructure & Third Party physical connections
 
 ## Core features
 
-![Features of Aviatrix](https://user-images.githubusercontent.com/56934817/91663060-e9e6d280-eaff-11ea-9904-2b8fb7556275.png)
+![Features of Aviatrix](https://user-images.githubusercontent.com/56934817/91663189-ca03de80-eb00-11ea-8e75-e0f0b2c832b2.png)
 
 1. Intelligent Orchestration, Control multi Account
 2. Advanced Networking Multi-Region & Multi-Cloud 
