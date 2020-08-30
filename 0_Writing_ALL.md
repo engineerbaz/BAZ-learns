@@ -497,7 +497,59 @@ These traffic routed via Aviatrix Firewall
 - No Encryption without aviatrix GW in Spoke VNet
 
 
-## single/Multi-Region Multi-Cloud
+## single/Multi-Region Multi-Cloud aviatrix Tranist FireNet 
+
+- Reapeatable Architecture - Single Region
+  - different enviornment connected via TGW (combined with FW) to TGW of Cnetral IT company 
+
+- Multi-Region/Multi-Cloud Tranist and aviatrix edge 
+  - All GW (having VPCs/Vnets) connected with Tranist GW (Having FW)
+
+## Aviatrix Features  
+- Private S3 
+  - Enterprise wants to use Corporate S3 buckets via DirectConnect
+  - User should not Utilize DX to access their private S3 buckets
+  - Challenges
+    - S3 over DX
+    - control which S3 buckets can be accessed 
+- Site2Cloud
+  - Connect public cloud to   
+    - On-prem 
+    - 5G 
+    - IoT 
+  - Support Native
+  - operational Visibiity
+  - A/A & A/S with Smart failover
+  - S2C builds Encrypt between two sites over internet 
+  - ONe end tunnel is Aviatrix GW (Standalone / Tranist)
+  - Supports TCP & UDP / overlapping IP 
+  - S2C can be Multi-Cloud
+- CloudWAN
+  - requirements for WAN to cloud connectivity 
+    - optimal latency 
+    - Frictionless , secure and easy 
+    - Centralized
+- UserVPN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
