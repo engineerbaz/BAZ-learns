@@ -529,9 +529,23 @@ These traffic routed via Aviatrix Firewall
     - optimal latency 
     - Frictionless , secure and easy 
     - Centralized
+    - Aviatrix controller logs in to Cisco IOS 
+    - automatically configure VPN BGP with AWS Global accelerator service 
 - UserVPN
+  - Connects user to public cloud resource
+  - no need to backhual to On-prem DC First
+  - least latency accessing cloud
+  - Supports multiple profiles 
+  - automated FW rules 
+  - security IP based 
+  - Support both Spilt & Full tunnel mode 
+  - Any OpenVPN Client supported
+    - for authentication with IDP , you need Aviatrix VPN Client 
 
 
+ ------------------------------------------- 
+
+=============================================================================
 
 
 
