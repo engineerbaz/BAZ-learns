@@ -546,7 +546,40 @@ These traffic routed via Aviatrix Firewall
  ------------------------------------------- 
 
 =============================================================================
+=============================================================================
 
+# IPv6
+
+- Huge Address
+- Simple Packet space
+- AutoConfiguratin and readdressing
+- Hierarchical network structure
+- End to end Security support
+- QoS
+- Mobility
+
+## Address Format
+
+- 128 bit Long
+- seprated by colon (:)
+- Eight group 
+- Hexadecimal digits
+- like 2031:0000:0000:130F:0000:09C0:876A:130B
+- Can be in compressed Format
+  - Any Zero at the beginning of a group can be omitted
+    - 2031:0:130F:0:0:9C0:876A:130B
+  - A double colon (::) can be using in IPv6 address when two or more consective group contain all Zeros
+    - 2031:0:130F::9C0:876A:130B
+
+
+
+
+
+
+
+
+
+=============================================================================
 
 
 
