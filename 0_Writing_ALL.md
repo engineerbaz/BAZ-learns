@@ -559,7 +559,6 @@ These traffic routed via Aviatrix Firewall
 - Mobility
 
 ## Address Format
-
 - 128 bit Long
 - seprated by colon (:)
 - Eight group 
@@ -571,7 +570,58 @@ These traffic routed via Aviatrix Firewall
   - A double colon (::) can be using in IPv6 address when two or more consective group contain all Zeros
     - 2031:0:130F::9C0:876A:130B
 
+## Address Structure
+- Same like v4, It has 2 parts 
+  - Network
+  - interface ID : corresponds to host ID
+- Interface ID can be configured 
+  - Manually Configuration
+  - automatically generated through System Software
+  - generated in IEEE 64-bit Extended Unique Identifier (EUI-64) Format
+    - MAC is 48 bit = 24 bit (Vendor ID) + 24 bit (Vendor Number)
+    - In EUI64  = Spilt 48bit in half 
+    - Add 16 bits 1111 1111 1111 1110 (FF FE)
+    - Also chage 7th group as 1 in first part.
+    - 
 
+## IPv6 Address Classification
+- Unicast
+  - Identifies an interface. Packet sent to an IPv6 Unicast delivered
+- Multicast
+  - Identifies a group of interfaces. 
+- Anycast
+  - Identifies a group of interfaces. Packet sent to an anycast address are delivered to the nearest interface taht is Identified by the anycast depending on routing protocol
+  - IPv6 anycast & Unicast address use same address space
+
+### Global Unicast Address 
+- Consist of Global routing prefix, subnet ID & Interface ID
+- [001 Global Routing prefix] [Subnet ID][Interface ID]
+- [Provider (M bit)] [Site (N bit)][Host (128-M-N bit)]
+ 
+
+### Link Local  
+- For communication in same network
+- starts FE80::/10
+- Not global , no routing possible
+- [FE80:: 0][Interface ID]
+- [64 bit] [64 bits]
+
+
+## Unique local Address
+- SImilar to IPv4 Private Address
+- Has Unique local prefix DC00::/7
+- No possiblity for this Address to implement the E2E feature of v6
+- [Prefix | L ] [Global ID][Subnet ID] [Interface ID]
+- [7 bit | 1 bit] [40 bit)][16 bit][16 bit]
+ 
+## Other Unicast Address
+- Unspecified Address
+  - 0:0:0:0:0:0:0:0/128 or ::/128
+  - Indicates that an Interface or a node Doesnt have IP 
+- Loopback Address
+  - 0:0:0:0:0:0:0:1/128 or ::1/128
+  - same as IPv4 127.0.0.1
+  - Loopback cant be used as source or destination IP address of Packet to be forwarded
 
 
 
