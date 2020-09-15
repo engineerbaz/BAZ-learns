@@ -607,14 +607,14 @@ These traffic routed via Aviatrix Firewall
 - [64 bit] [64 bits]
 
 
-## Unique local Address
+### Unique local Address
 - SImilar to IPv4 Private Address
 - Has Unique local prefix DC00::/7
 - No possiblity for this Address to implement the E2E feature of v6
 - [Prefix | L ] [Global ID][Subnet ID] [Interface ID]
 - [7 bit | 1 bit] [40 bit)][16 bit][16 bit]
  
-## Other Unicast Address
+### Other Unicast Address
 - Unspecified Address
   - 0:0:0:0:0:0:0:0/128 or ::/128
   - Indicates that an Interface or a node Doesnt have IP 
@@ -622,6 +622,24 @@ These traffic routed via Aviatrix Firewall
   - 0:0:0:0:0:0:0:1/128 or ::1/128
   - same as IPv4 127.0.0.1
   - Loopback cant be used as source or destination IP address of Packet to be forwarded
+
+## Multicast address 
+- Similar to IPv4 Multicast
+- Consists of a prefix, flag, scope and Multicast group ID
+- starts with FF00::/8
+  - Node-local
+    - 
+  - Link-local
+- [8 bit][4 bit][4 bit][80 bit][32 bit]
+- [FF00][Flag][Scope][Reserved must be Zero][Group ID]
+
+
+
+
+
+
+
+
 
 
 
