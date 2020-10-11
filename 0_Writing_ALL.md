@@ -612,10 +612,54 @@ Fully able to automate using REST API and Can use Terraform
 - Periodic account audits
   - To make sure they are intact and have needed IAM rules, polices and Trust relationship
 
+## Controller HA 
+- Aviatrix Controller HA in AWS leaverage following native AWS Construct ro Perform monitoring, launch a new controller & restore configuration when active controller instance become unreachable 
+  - S3 based backup
+  - An auto scalling group 
+  - SNS 
+  - Lambda Function 
+- when a new controller is launched 
+  - Existing is terminated
+- Aviatrix supplied CloudFormation stack means customer dont have to do any customization
+
+## VPC Tracker 
+- While Managing VPCs/Cloud in multiple clouds, there are many CIDR 
+- Managing all CIDR 
+- Record CIDRs in AWS, Azure, Site2Cloud remote network CIDR and Transit network on-prem CIDR
+  - Display VPCs with atleast 1 running instance
+  - VPC tracker auto updates once a day
+- On-demand test to detect overlapping CIDRs before creating new one
+
+## TGW Route Audit 
+- It allows you to immediately discover the missing routes in spoke VPC route table  its associated TGW route tables
 
 
+## TGW Audit 
+- It expands its Capability to Audit all route enteries of attached VPC route tables in addition to route enteries in TGW route Table 
+
+## Traffic Metric Gateway
+- All Gateway Metric including
+  - 20 Gateway Metric including
+    - Data & throughput: Total, Sent recieved 
+    - Disk: Total, Free 
+    - Memory: Cached, Buffer, Swapped
+
+## AWS Transit Gateway (TGW) Orchestor List 
+- Multi panel tables List per TGW
+  - List each VPC and its security domain associated
+  - View VPC, TGW and associated Aviatrix Gateway Routing Tables in one place 
 
 
+## Chargeback
+ 
+### Functionality 
+- Summary of all resources
+- Aggregate view of all Cloud
+- Shows deployedment per account
+  - Number of Encrypted spoke GW 
+  - Number of VPCs attachments
+  - ETc 
+- Use case is to gain Visibiity of the Aviatrix usage per each account and helps to charge back to teams who ar part of deployedment
 
 
 
