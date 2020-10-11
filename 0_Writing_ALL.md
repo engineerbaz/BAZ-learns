@@ -661,6 +661,14 @@ Fully able to automate using REST API and Can use Terraform
   - ETc 
 - Use case is to gain Visibiity of the Aviatrix usage per each account and helps to charge back to teams who ar part of deployedment
 
+## Other Operational topic
+
+- Hitless upgrade 
+  - No dropped in traffic , no downtime 
+- Security patches 
+- HA 
+  - High Availablity
+
 
 
 
