@@ -547,7 +547,7 @@ These traffic routed via Aviatrix Firewall
 
 ============================================================================================================
 
-# 09 day 2 
+# 09 Day 2 Operation
 
 - Packet Capture /Traceroute is not always available in every cloud
 - Unfamiliar Toolset 
@@ -669,10 +669,46 @@ Fully able to automate using REST API and Can use Terraform
 - HA 
   - High Availablity
 
+============================================================================================================
 
+# 10 Co-Polit
+Overview of Aviatrix Co-Polit </br>
+Three Main feature of Co-Polit </br>
+- Dashboard shows everything related network 
+  - Inventory 
+  - Map 
+  - List of VPC/VNets
+  - Distribution by size/region 
+- Topology
+  - Global view of all network
+  - some configuration options 
+  - some troubleshooting Functions
+- Visualization of Data 
+  - Overview 
+  - Movement of traffic 
+  - Volumes 
+  - Geo Location 
+  - Flows 
+    - Top talkers 
+  - Records 
+    - Granual information 
 
+============================================================================================================
 
+# 11 Aviatrix Controller Deployment
 
+Deployment of Aviatrix controller using docs section </br>
+1. Subscribe AMI 
+2. Launch Controller with CloudFormation
+   1. destination
+   2. select region 
+   3. Select VPC name 
+   4. IAM rule 
+   5. create stack 
+3. Onboarding
+4. EC2 instance
+   1. Using Public IP to login
+   2. Use "admin" as username and "private ip" as password
 
 
 
