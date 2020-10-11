@@ -603,6 +603,16 @@ Return Traffic
 26. Destination Inbound NACL rule 
 27. Stateful FW Rules 
 
+## DevOps Automation
+Fully able to automate using REST API and Can use Terraform
+
+## Multi-Cloud , Multi-Account
+- Single pane of glass to manage all cloud account 
+- Support for AWS, AWS Gov,Azure, GCP using same workflows , terminologies and tools 
+- Periodic account audits
+  - To make sure they are intact and have needed IAM rules, polices and Trust relationship
+
+
 
 
 
