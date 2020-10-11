@@ -397,7 +397,7 @@ Three Layers & Two Operations (Controller & Gateways)
 # 8_ACE_Aviatrix_Features_Overview_02.md
 
 - For security and compilance we need Firewall
-- For East & West (VPV -- VPC || VPC <--> On-prem)
+- For East & West (VPC -- VPC || VPC <--> On-prem)
 - For North - South (Egress: To internet || Ingress: From internet)
   
 FW is required when
@@ -544,6 +544,82 @@ These traffic routed via Aviatrix Firewall
 
 
  ------------------------------------------- 
+
+============================================================================================================
+
+# 09 day 2 
+
+- Packet Capture /Traceroute is not always available in every cloud
+- Unfamiliar Toolset 
+- Blackbox - no Visibiity
+
+
+So many troubleshooting tool 
+- FlightPath 
+  - Use to troubleshoot from source to destination
+  - it analyzes all network parts
+    - NACL 
+    - Security Group
+    - Routing Table 
+  - Diagnostic
+    - ping
+    - Traceroute
+    - Tracepath
+    - network 
+    - Packet Capture (pcap can be Downloaded)
+    - Network validation (Checking one VPC from AWS reachable to Azure VNC)
+
+## 25 Datapoint   
+25 Datapoints needed for inter VNET/VPC Troubleshooting </br>
+Not considering any Complexity like NAT, Multi Account, Multi Region, Multi Cloud
+Source to Destination
+1. Source instance name
+2. Source IP address
+3. Source VPC ID
+4. Source Subnet ID
+5. Source Route Table
+6. Source Outband rules in Security group used
+7. Source Outband NACL rule
+8. Source Tranist Routing or VPC peering route
+9. Destination instance name
+10. Destination IP address
+11. Destination VPC ID 
+12. Destination Subnet ID 
+13. Destination Route Table 
+14. Destination Inbound NACL rule 
+15. Destination Inbound rules in Security group used
+
+Return Traffic 
+16. Source Subnet ID 
+17. Source Route Table ID 
+18. Source Outband NACL rule 
+19. Source Transit Routing or VPC peering Route 
+20. Destination Transit Routing or VPC Peering Route
+21. Destination IP address
+22. Destination VPC ID 
+23. Destination Subnet ID 
+24. Destination Route Table ID
+25. Destination Route used in Routing Table
+26. Destination Inbound NACL rule 
+27. Stateful FW Rules 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
