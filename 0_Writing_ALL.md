@@ -710,7 +710,17 @@ Deployment of Aviatrix controller using docs section </br>
    1. Using Public IP to login
    2. Use "admin" as username and "private ip" as password
 
+============================================================================================================
 
+# 12 Real Aviatrix Customer Walk Through - Single Region 
+
+Business Objectives 
+- 3 different Workload in Azure
+  - Test, Dev, Prod 
+- A shared service
+- High througput access to on-prem
+- remote users need to VPN to workloads 
+- Deep inspection required
 
 
 
