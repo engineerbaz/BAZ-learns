@@ -12,6 +12,11 @@ ec2-user = default user created for EC2
 - using Putty
 - Instant Connect on web Shell
 
+sudo su
+yum update -y
+yum install -y httpd.x86_64
+systemctl start httpd.service ( to start the service )
+systemctl enable httpd.service  ( service remains during reboot )
 
 ===============
 1. How to add billing in IAM user
