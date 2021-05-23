@@ -59,8 +59,16 @@ echo "Hello World from $(hostname -f)" > /var/www/html/index.html
       - when yor reserve in fraction of time.
 - Spot Instance
   - cheap but not reliable as it can be loose. 
+  - cheapest price, upto 90% as compared to on-demand 
 - Dedicated Instance
 - Dedicated host
+  - Physical EC2 server for user
+  - Full control over instance placement
+  - visibility into underlying sockets/physical cores of the hardware
+  - Most expensive
+  - Allocated for 3 years
+  - recommended where compliance required, sensitive data or where licensing model (BYOL)
+
 
 
 
