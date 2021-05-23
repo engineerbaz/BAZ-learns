@@ -13,6 +13,12 @@ ec2-user = default user created for EC2
 - Instant Connect on web Shell
 
 
+===============
+1. How to add billing in IAM user
+2. Best practices
+3. Permission is on group not user
+4. 
+
 
 
 
