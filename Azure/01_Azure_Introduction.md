@@ -64,7 +64,9 @@ AZ204 = Developer
 - .NET compatibility 
 - Security Offering 
 - Hybrid solutions for seamless Cloud connectivity 
+  - On-Prem Active Directory 
 - Gentle learning curve
+  - Github 
 - The 'Enterprise Agreement' advantages
 - Powerful automated solutions
 
