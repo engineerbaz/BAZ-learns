@@ -59,7 +59,14 @@ AZ204 = Developer
   - Azure Site recovery & Failover 
 - CapEx vs OpEx 
 
-
+## Why Azure 
+- PaaS Capilities
+- .NET compatibility 
+- Security Offering 
+- Hybrid solutions for seamless Cloud connectivity 
+- Gentle learning curve
+- The 'Enterprise Agreement' advantages
+- Powerful automated solutions
 
 
 
