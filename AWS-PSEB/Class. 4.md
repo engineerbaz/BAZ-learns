@@ -70,6 +70,8 @@ Object : Non-bootable, Non-mountable ... Internet
 
 ## AWS Storage Type
 
+### Elastic Block Store (EBS Volume)
+- Like Network drive that you attached 
 
 
 
