@@ -72,7 +72,9 @@ Object : Non-bootable, Non-mountable ... Internet
 
 ### Elastic Block Store (EBS Volume)
 - Like Network drive that you attached 
-
+- Allows you to persist data , even after terminayion.
+- bound only to specific AZ 
+- provision a specific capacity (size and IOPS)
 
 
 ---
