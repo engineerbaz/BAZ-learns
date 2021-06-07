@@ -77,6 +77,15 @@ Object : Non-bootable, Non-mountable ... Internet
 - provision a specific capacity (size and IOPS)
 
 
+#### EC2 Instance Store 
+- HDD allocated to EC2 from same hardware where it is available
+- like local HDD 
+- EBS Volume are network drives with limited performance 
+- for High performance, use EC2 Instance store. 
+- EC2 Instance store isnt available if EC2 Instances are terminated.
+- Good for buffer/cache/scratch data /temporary content
+- Backup of replication is responsible of customers.
+
 ---
 - Data vs Information
   - Information is valuable Data 
@@ -84,6 +93,20 @@ Object : Non-bootable, Non-mountable ... Internet
   - Unstructured 
     - Photos, PDF
     - While EMail is Semi stuctured.
+
+------
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
