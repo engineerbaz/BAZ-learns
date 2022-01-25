@@ -38,3 +38,7 @@ from GH to VScode
     - Hybrid
 	
 	Test from VScode to GH via GHdesktop
+
+
+
+	Test from VScode to GH using vs
