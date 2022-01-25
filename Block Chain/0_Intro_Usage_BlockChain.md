@@ -23,12 +23,6 @@ Blockchain technology can is being used into multiple areas, Some of common use 
 - Programming language (JavaScript, Phython)
 - Internet & Web
 
-
-from GH to VScode
-
-
-
-
 ### Some Points 
 
 - 15K Currency in the world.
@@ -36,9 +30,3 @@ from GH to VScode
     -  Public
     - Private
     - Hybrid
-	
-	Test from VScode to GH via GHdesktop
-
-
-
-	Test from VScode to GH using vs
