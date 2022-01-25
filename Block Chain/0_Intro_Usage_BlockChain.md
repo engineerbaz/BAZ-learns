@@ -37,4 +37,4 @@ from GH to VScode
     - Private
     - Hybrid
 	
-	Test from NPP
+	Test from VScode to GH via GHdesktop
