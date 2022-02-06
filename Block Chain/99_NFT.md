@@ -7,7 +7,7 @@ Simply you may call it Replaceable. So any asset that can not replaced with piec
 All three are connected eact other, as these are 3 thilima
 
 
-Public - no CA
+Public - no Central Authority (CA)
 Private - 1 CA
 Consortium - Group
 Hybrid - Mix
@@ -24,5 +24,8 @@ As Blockchain is increasing and flourshing in almost every walk of life from Fin
 
 ### What really Scalability cintrols
 - Adding more 
+
+
+
 
 
