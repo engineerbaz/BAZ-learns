@@ -27,6 +27,6 @@ Blockchain technology can is being used into multiple areas, Some of common use 
 
 - 15K Currency in the world.
 - Three types of Block Chain
-    -  Public
+    - Public
     - Private
     - Hybrid
