@@ -18,7 +18,7 @@ Software Defined WAN - a user friendly
 
 - Cloud or Onprem delivered SDN architecture
 - Comprehensive Security 
-- Application Quality of Exp
+- Application Quality of 
 
 
 ## Why SDWAN?
