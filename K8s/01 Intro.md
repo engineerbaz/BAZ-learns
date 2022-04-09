@@ -103,7 +103,24 @@ Allow communication btw one set of deployment with another
   - iptables
   - ipvs
 
+## Installation 
+- Docker 
+- Virtual box
+- K8s 
+- Minikube
 
+
+- Minikube
+  - runs Kubernetes locally
+- Docker Desktop
+  - creates k8s cluster 
+  - lags k8s version
+- KIND
+  - Kubernetes in Docker
+  - not suuted for beginer
+- Managed Kubernetes
+  - by CSK 
+  - EKS
 
 
 
