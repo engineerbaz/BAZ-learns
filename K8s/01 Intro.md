@@ -81,6 +81,34 @@ Allow communication btw one set of deployment with another
   - Set based
     - IN, NOTIN, EXIST
 
+## Namespaces
+- Features of K8s 
+- vitually division of cluster
+- Divide cluster resources 
+
+
+# kubelet
+- Kubernetes node agent
+- communicate with API server 
+- executes pod and take care volumer
+- executes health check
+- takes a set of Podspecs (YAML file) provided by kube-apiserver & ensure containers as specified  
+
+# kubeproxy
+- process , runs on worker nodes
+- reflects service in each node , 
+- Service cluster IP & ports 
+- modes 
+  - user space 
+  - iptables
+  - ipvs
+
+
+
+
+
+
+
 
 
 
