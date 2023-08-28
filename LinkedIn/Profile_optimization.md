@@ -11,4 +11,4 @@ Four Pillar of LinkedIn
 - Joining without strategy
 - Sending random connection request
 - Similar souce/field
-- Not Staying in relevant field posy 
+- Not Staying in relevant field posts
