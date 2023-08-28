@@ -7,5 +7,8 @@ Four Pillar of LinkedIn
 - Networking
 - Tools
 
-
-
+#### DO and Dont 
+- Joining without strategy
+- Sending random connection request
+- Similar souce/field
+- Not Staying in relevant field posy 
