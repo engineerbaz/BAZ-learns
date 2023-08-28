@@ -12,3 +12,12 @@ Four Pillar of LinkedIn
 - Sending random connection request
 - Similar souce/field
 - Not Staying in relevant field posts
+
+
+#### The power of Secrete LinkedIn Features
+
+Four Feature BCNS
+1. Branding
+2. Content
+3. Networking Remendattub
+4. Search
