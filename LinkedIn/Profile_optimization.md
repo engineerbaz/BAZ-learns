@@ -21,3 +21,65 @@ Four Feature BCNS
 2. Content
 3. Networking Remendattub
 4. Search
+
+Searability feature of LinkedIn is most important feature.
+
+#####   LinkedIn Profile Performance Matrix
+
+
+- CAPs Letter
+- Headline should be crafted.
+
+
+Trainer, Consultant, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
