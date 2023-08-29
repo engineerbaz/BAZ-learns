@@ -42,7 +42,15 @@ Make Video
 
 - Strategy
 - Be distruptive
-- 
+
+Plan and do well. 
+
+####     How to Use Creator tool efffectively?
+
+- Create account on Streamyard or restream
+- Live Stream
+
+
 
 
 
