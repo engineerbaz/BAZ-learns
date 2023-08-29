@@ -34,6 +34,15 @@ Searability feature of LinkedIn is most important feature.
 Trainer, Consultant, 
 
 
+#####   LinkedIn Strategy
+
+Only 1% people writing 
+0.01% doing LinkedIn LIVE
+Make Video
+
+- Strategy
+- Be distruptive
+- 
 
 
 
