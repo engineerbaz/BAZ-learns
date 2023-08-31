@@ -89,7 +89,9 @@ Pro Tips
 
 - Lights
 - Voice quality
--  
+- Create Library of all content
+- E-Book is good way to have engagemnet
+- comment more.
 
 
 
