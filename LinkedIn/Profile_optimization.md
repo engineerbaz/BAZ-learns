@@ -118,7 +118,7 @@ Connect > Communication > Nurture
 Normally 1% is being nurtured.
 
 
-Content Creator (1%) < Contributor (9%) < Lurkers (90%)
+** Content Creator (1%) < Contributor (9%) < Lurkers (90%)
 
 Lurker = Who looks but doesnt contribute
 
