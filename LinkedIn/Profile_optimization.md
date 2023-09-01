@@ -118,6 +118,17 @@ Connect > Communication > Nurture
 Normally 1% is being nurtured.
 
 
+Content Creator (1%) < Contributor (9%) < Lurkers (90%)
+
+Lurker = Who looks but doesnt contribute
+
+#### Advanced Networking with LinkedIn
+
+* Your Network is your Networth
+
+
+
+
 
 
 
