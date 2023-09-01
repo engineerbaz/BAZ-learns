@@ -128,7 +128,12 @@ Lurker = Who looks but doesnt contribute
 Make powerful & relevant network <br>
 Big & Targeted network.
 
-
+Some key tool for netwoking
+- Search 
+- Groups
+	- With groups , even you can message 3rd degree connection
+- Event
+	- Mostly specifically related 
 
 
 
