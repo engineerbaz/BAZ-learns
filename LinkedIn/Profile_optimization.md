@@ -93,6 +93,31 @@ Pro Tips
 - E-Book is good way to have engagemnet
 - comment more.
 
+#### LinkedIn Networking - Take A Deeper Dive
+
+- School/College Mates
+- Co-Workers
+- Mentor/Teachers
+- Industry Experts
+- Experts in other relevant sectors
+
+Who to send invite to?
+how to deal with connection invites
+What next action item
+
+
+LinkedIn works on Concept of Communities
+- People
+- Place
+- Function
+
+
+Networking Funnel 
+Connect > Communication > Nurture 
+
+Normally 1% is being nurtured.
+
+
 
 
 
