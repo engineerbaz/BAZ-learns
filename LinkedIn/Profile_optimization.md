@@ -182,10 +182,20 @@ Filt
 Hashtag analyser
 
 
+####   How Recruiters Searches for talent?
+
+####   Organic & Paid lead Generation (Sales Naviagator) - B2B/B2C
+
+Stop Selling, start helping
+
+Outboud vs Inbound ?
 
 
-
-
+Boolean Search
+- Quoted Word
+- NOT Searches
+	- programmer NOT Managers
+- OR / AND
 
 
 
