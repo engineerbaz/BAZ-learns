@@ -139,6 +139,39 @@ Some key tool for netwoking
 - Groups
 - Events
 
+####  Job Search Strategy 2023 and Beyond
+
+- Branding
+- Prospecting
+- Engaging
+- Repeat
+
+Showing up & Show Off
+
+Connect, Comment & Contact
+
+Attract --> Nurture --> Lock
+
+Leads find you or You find lead
+
+
+Tangible Skills
+
+Intangible Skills
+
+List 10 Companies
+- Start Following these companies
+- Engage with their content
+
+
+
+
+
+
+
+
+
+
 
 
 
