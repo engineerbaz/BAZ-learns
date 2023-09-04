@@ -163,11 +163,23 @@ List 10 Companies
 - Start Following these companies
 - Engage with their content
 
+- Networking
 
+LinkedIn is the way many people land a new job.
+Ask for referral, as it increases changed.
 
+- Target the right jobs 
+- Stay on top of industry trends
 
+#### Advanced Job Search Strategies
 
+"Hiring Now"  in Search bar 
 
+"#Hiring"  in Search bar 
+
+Chrome Extensions 
+Filt
+Hashtag analyser
 
 
 
