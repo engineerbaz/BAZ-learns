@@ -134,6 +134,23 @@ Some key tool for netwoking
 	- With groups , even you can message 3rd degree connection
 - Event
 	- Mostly specifically related 
+#### Blueprint to use LinkedIn Tools for Networking
+
+- Groups
+- Events
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
