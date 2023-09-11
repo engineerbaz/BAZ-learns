@@ -197,6 +197,10 @@ Boolean Search
 	- programmer NOT Managers
 - OR / AND
 
+###   Science of Branding on LinkedIn
+Be you are Own
+
+- LinkedIn has more than 50 features
 
 
 
