@@ -202,7 +202,9 @@ Be you are Own
 
 - LinkedIn has more than 50 features
 
+Professional Brand is subset of your personal brand
 
+###   A-Z of Lead Generation process on LinkedIn
 
 
 
