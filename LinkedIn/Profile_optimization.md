@@ -206,10 +206,72 @@ Professional Brand is subset of your personal brand
 
 ###   A-Z of Lead Generation process on LinkedIn
 
+Problem
+- Possible Solution
+- The Process 
+- Price /Value
+- Decision
+
+Seller's Process
+
+Attract-Nurture-Convert
+
+--
+
+Targetting
+Authority
+Visibility
+Responsive
+
+### Crafting Strategy
+
+FB, IG & TT 
+- Best platform fo B2B 
+- 58 million companies
+- 60% user of age 25 - 34 year
+- 850 million user
+- 90% LinkedIn user dont understand LinkedIn
+
+We see what we want to see 
+Listening overpower seeing 
+
+Strategy
+Plan of action designed to achieve a goal.
 
 
+---
+CURRENT POSITION <--  ---> WHAT YOU WANT TO BE 
+---
+
+Without Transaction, No Transformation
 
 
+1. Stop Learning
+2. Stop helping
+3. become greedy
+4. Procrasyination
+5. Over Thinking
+
+### Linkedin For Freelancers (Bonus)
+
+Finite Game
+Same rule and player
+
+InFinite Game
+Differenet rule and player
+
+--
+- Define your Why
+- Select your Target audience
+- Become a Data Ninja
+- Evaluate Competition
+- Feature your portfolio
+- Get recommendation
+
+LinkedIn Sales Funnel
+Content + Connect
+Communication 
+Nurture.
 
 
 
