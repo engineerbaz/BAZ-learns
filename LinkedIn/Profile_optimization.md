@@ -245,7 +245,6 @@ CURRENT POSITION <--  ---> WHAT YOU WANT TO BE
 
 Without Transaction, No Transformation
 
-
 1. Stop Learning
 2. Stop helping
 3. become greedy
@@ -272,6 +271,8 @@ LinkedIn Sales Funnel
 Content + Connect
 Communication 
 Nurture.
+
+-----
 
 
 
