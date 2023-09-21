@@ -272,13 +272,10 @@ Content + Connect
 Communication 
 Nurture.
 
-<<<<<<< HEAD
+ 
 ### Finding Freelancing & E-commerce Business leads with LinkedIn
 =======
------
-
->>>>>>> da06e39fdd83bb09a944adafaa6ed62764ce47db
-
+ 
 - Identify the rigt contact
 - Join Conversation
 - Show your interest
