@@ -273,14 +273,41 @@ Content + Connect
 Communication 
 Nurture.
 
+### Finding Freelancing & E-commerce Business leads with LinkedIn
+
+- Identify the rigt contact
+- Join Conversation
+- Show your interest
+- Show your expertise and skill
+- Close deals
+
+### Linkedin Masterminds
+
+LinkedIn strategy has 4 pillars
+1. Branding
+	Recall Factor (or simply how people remember you)
+	220 Character Limit for Headline & should have 3 to 4 industry specific job title with mix of current & past titles and position to achieve.
+	2600 Character for About Section Summary
+2. LinkedIn Tools/Feature
+	There are 62 tools
+3. Content Strategy
+4. Networking Strategy
+
+
+Golden Circle by Simon Sinek
+- WHY - Your Purpose -- your cause or believe
+- How - your Process -- Specific action taken to realise your why
+- WHAT - Your Process -- What do you do? The result of Why, proof
 
 
 
+$$ 
+- Make a list of services 
 
+$$
 
-
-
-
+-- Content is King
+Create targeted, relevant and original content
 
 
 
