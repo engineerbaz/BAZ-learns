@@ -245,7 +245,6 @@ CURRENT POSITION <--  ---> WHAT YOU WANT TO BE
 
 Without Transaction, No Transformation
 
-
 1. Stop Learning
 2. Stop helping
 3. become greedy
@@ -273,7 +272,12 @@ Content + Connect
 Communication 
 Nurture.
 
+<<<<<<< HEAD
 ### Finding Freelancing & E-commerce Business leads with LinkedIn
+=======
+-----
+
+>>>>>>> da06e39fdd83bb09a944adafaa6ed62764ce47db
 
 - Identify the rigt contact
 - Join Conversation
