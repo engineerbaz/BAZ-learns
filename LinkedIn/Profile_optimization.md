@@ -311,7 +311,17 @@ $$
 Create targeted, relevant and original content
 
 
+#### 
 
+Three ways to create effective content strategy:
+- Follow the trend in your specialized field
+- Create content that overarches your expertise 
+- Build conversations on relevant content
+
+30 minutes plan
+- 15 minute to Create 
+- 10 min to Comment
+- 05 min to CONNECT
 
 
 
