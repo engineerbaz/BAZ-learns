@@ -1,7 +1,7 @@
 # SANOG40 Workshop
 ## BGP RPKI & IPv6 
 
-## Day 1 - RPKI Validation 
+### Day 1 - RPKI Validation 
 
 RCT
 https://bit.ly/3nEykpi
@@ -27,4 +27,4 @@ Private key to sign the authority , and
 Chain of Trust
 https://rpki.cloudflare.com/
 
-*ROA* = Route Origin Authorization
+**ROA** = Route Origin Authorization
