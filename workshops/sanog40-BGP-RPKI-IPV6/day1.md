@@ -20,11 +20,11 @@ https://bgpstream.com/
 
 ---
 Private key to sign the authority , and
-Public Key to Validate the authority
+<br> Public Key to Validate the authority
 
 ---
-
 
 Chain of Trust
 https://rpki.cloudflare.com/
 
+*ROA* = Route Origin Authorization
