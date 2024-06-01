@@ -1,5 +1,7 @@
 ## **5G & MEC - A perfect combo!**
 
+
+
 ## 5G needs MEC
 5G helps service innovations toward enhanced mobile broadband (eMBB), massive machine-type communications(mMTC) and ultra-reliable low-latency communication (URLLC). 
  
