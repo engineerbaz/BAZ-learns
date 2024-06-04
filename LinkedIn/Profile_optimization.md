@@ -294,7 +294,6 @@ LinkedIn strategy has 4 pillars
 3. Content Strategy
 4. Networking Strategy
 
-
 Golden Circle by Simon Sinek
 - WHY - Your Purpose -- your cause or believe
 - How - your Process -- Specific action taken to realise your why
@@ -324,7 +323,12 @@ Three ways to create effective content strategy:
 - 05 min to CONNECT
 
 
+$$ 
+- Appreciation Post 
 
+Use #Letsconnect #socialsaturday #socialsaturdaysquad
+
+$$
 
 
 
