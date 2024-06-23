@@ -9,12 +9,21 @@ Members of a team with team maintainer or repository admin permissions can
 - manage visibility/ set reminders
 
 ### Some best practices for team
-- Create nested team
-- create team on basis of interest or specific technology to streamline PR review.
+- Create a nested team
+- create a team on the basis of interest or specific technology to streamline PR review.
 - Enable team sync
 
-## Administration at organizational level
 
+
+## Administration at an organizational level
+Member of organization with owner permission can 
+- Invite member
+- Organize user in team and grant *team maintainer* permission
+- Add/remove outside collaborator
+- Grant repo permission levels to members and set default permission. 
 - Manage permissions
 - setup organization security
+- Set up billing
+
+Set up only one organization for your users and repo
 
