@@ -1,4 +1,9 @@
 # Describe Deployment, Distribution and Licensing
 
 ## GitHub Codespaces
-Like a Cloud shell, same as AWS, GCP and Azure resources
+- Cloud shell, same as AWS, GCP and Azure resources
+- Code Like as if doing in vscode
+- cloud based enviornmnet
+- Linux commmands working
+
+`sourc ~/.bashrc` for reload bas
