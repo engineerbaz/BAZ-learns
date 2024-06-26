@@ -6,4 +6,9 @@
 - cloud based enviornmnet
 - Linux commmands working
 
-`sourc ~/.bashrc` for reload bas
+`sourc ~/.bashrc` for reload bash
+
+
+## Billing 
+
+## Codespaces
