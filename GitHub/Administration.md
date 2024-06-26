@@ -27,3 +27,10 @@ Member of organization with owner permission can
 
 Set up only one organization for your users and repo
 
+## PLP 
+Principle of Least Previllage 
+- only minimum access
+- if account compromised,not a big loss
+- avoid bluck
+- do audits regularly
+- PAT (Personal Access Tokens)
