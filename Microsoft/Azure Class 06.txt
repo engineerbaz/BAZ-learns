@@ -1,0 +1,8 @@
+
+
+
+
+each RG can have 100 resources
+
+bashir.user10@azurelab.ml
+Zong@123
