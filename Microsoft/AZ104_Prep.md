@@ -77,4 +77,9 @@ Request to Join Groups - The group owner can let users find their own groups to 
 3. Rule Based Assignment - the RO creates a group and uses a rule to define which users are assigned to a specific resource 
 4. External Authority Assignment - Access comes from an External source, such as an on-prem directory or a SaaS App.
 
+---------------
 
+- Active Directory provides the core service of identity management.
+- AD DS is the traditional on-premises solution, whereas Microsoft Entra ID is the cloud-based solution. 
+- Microsoft Entra ID is frequently adopted at first to facilitate authentication for cloud-based apps, but is capable of providing authentication services for the entire infrastructure. While they provide similar solutions, each offer different capability and are often used together to provide a best-of-breed solution. 
+- Microsoft Entra ID is offered as a free service, with paid tiers for additional capabilities, depending on an organization's needs.
