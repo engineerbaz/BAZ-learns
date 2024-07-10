@@ -6,6 +6,7 @@ Azure Resource Manager is the deployment and management service for Azure.
 ARM can be used via 
 - Azure Portal
 - Azure CLI 
+- PowerShell
 - SDK
 - Rest API 
 
@@ -27,3 +28,4 @@ Only the Owner and User Access Administrator roles can create or delete manageme
 `Remove-AzResourceGroup -Name "ContosoRG01"`
 
 
+Management Group --> Subscription --> Resoource Group --> Resources
