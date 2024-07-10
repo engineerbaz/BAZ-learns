@@ -83,3 +83,8 @@ Request to Join Groups - The group owner can let users find their own groups to 
 - AD DS is the traditional on-premises solution, whereas Microsoft Entra ID is the cloud-based solution. 
 - Microsoft Entra ID is frequently adopted at first to facilitate authentication for cloud-based apps, but is capable of providing authentication services for the entire infrastructure. While they provide similar solutions, each offer different capability and are often used together to provide a best-of-breed solution. 
 - Microsoft Entra ID is offered as a free service, with paid tiers for additional capabilities, depending on an organization's needs.
+
+Entra ID has three types of User Accounts
+1. Cloud Identity (includes administrator account and users who managed as a part of your organization, Ifit is deleted  from primary directory, user account will be removed too)
+2. Directory Synchronized Identity (Its defined in on-prem Active Directory, Synchronization occurs vi Microsoft Entra Connnect to bring user to Azure, The source is Windows Server AD)
+3. Guest User (Outside Azure, UA from other cloud providers and Microsoft accounts like xbox, Its Invited user)
