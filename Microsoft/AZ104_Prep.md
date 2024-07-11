@@ -88,3 +88,18 @@ Entra ID has three types of User Accounts
 1. Cloud Identity (includes administrator account and users who managed as a part of your organization, Ifit is deleted  from primary directory, user account will be removed too)
 2. Directory Synchronized Identity (Its defined in on-prem Active Directory, Synchronization occurs vi Microsoft Entra Connnect to bring user to Azure, The source is Windows Server AD)
 3. Guest User (Outside Azure, UA from other cloud providers and Microsoft accounts like xbox, Its Invited user)
+
+----
+
+The main takeaways for this module are:
+
+1. Microsoft Entra ID supports three types of user accounts: cloud identities, directory-synchronized identities, and guest user identities.
+
+2. Cloud identities have profile information such as job title and office location. This information can be customized for your organization's needs.
+
+3. You can bulk create user and group accounts. The process uses a template file managed through the portal.
+
+
+There are two types of group accounts: Security and Microsoft 365.
+
+- Administrative units help you control administrator access to resources.
