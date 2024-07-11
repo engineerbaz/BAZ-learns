@@ -109,3 +109,9 @@ PowerShell differs from a traditional command-line shell in a few ways:
 Run the following command in Cloud Shell, and then press Enter to verify that your system is set up to use PowerShell. The `$PSVersionTable` verifies your installation.
 
 `$PSVersionTable.PSVersion` for version of PowerShell
+
+## regions
+- Azure is generally available in more than 60 regions in 140 countries.
+- Most Azure regions are paired with another region within the same geography to make a regional pair (or paired regions). Regional pairs help to support always-on availability of Azure resources used by your infrastructure. 
+- Some services don't require regions. Identify services that don't need region support. Some global Azure services that don't require you to select a region. These services include Microsoft Entra ID, Microsoft Azure Traffic Manager, and Azure DNS.
+- 
