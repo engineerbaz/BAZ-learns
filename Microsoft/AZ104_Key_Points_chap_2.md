@@ -114,4 +114,20 @@ Run the following command in Cloud Shell, and then press Enter to verify that yo
 - Azure is generally available in more than 60 regions in 140 countries.
 - Most Azure regions are paired with another region within the same geography to make a regional pair (or paired regions). Regional pairs help to support always-on availability of Azure resources used by your infrastructure. 
 - Some services don't require regions. Identify services that don't need region support. Some global Azure services that don't require you to select a region. These services include Microsoft Entra ID, Microsoft Azure Traffic Manager, and Azure DNS.
-- 
+
+## Costing 
+The main takeaways from this module are:
+
+- Azure regions provide flexibility, data residency, compliance, and resiliency options.
+- Azure subscriptions are essential for managing access to Azure resources and billing.
+- Azure offers various subscription options such as Free, Pay-As-You-Go, Enterprise Agreement, and Student.
+- Azure offers cost-saving options such as reservations, Azure Hybrid Benefits and Azure credits.
+- Resource tagging allows for organizing and analyzing resources in Azure.
+- Microsoft Cost Management helps monitor and control Azure spending.
+- The Pricing Calculator provides billing estimates for different usage cases.
+
+# Azure Policy
+- Enables you to enforce rules and ensure compliance with corporate standards adn SLA
+- Managemnet Group provide a way to efficently manage access, polices, and compliance across multiple subscription allowing for unified policy and access managemnet. 
+- Creating Policy defination and intiative defination allows you to define conventions for resource and contral the scope ofpolices , ensuring resource compliance. 
+- The compliance feature is Azure policy helps in determining compliance state of resource and evaluate wheather they're compliant or not.
