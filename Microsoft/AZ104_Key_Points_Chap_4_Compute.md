@@ -39,3 +39,4 @@ Any Data which is critical shouldnt be available/store on Temporary disk
 VHD is like a physical disk in an on-prem server but virtualized
 
 #### Connect Virtual Machine
+Azure Bastion is fully platform managed PaaS Service, Bastion provides secure and seamless RDP/SSH connectivity to your VM directly over SSL. Bastion provides secure RDP and SSH connectivity
