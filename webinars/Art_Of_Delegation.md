@@ -13,5 +13,8 @@ By: Muhammad Waqar Aqil on 18th Jan 2025
 - Accountability is Imposed
 
 
-Doning  --> Assigning --> Delegating
-2 --> 2^2 ----> 2 ^ n
+| Doning    | Assigning  | Delegating |
+| :--- | :-------: | ---:|
+| 2  |  2^2  | 2 ^ n |
+
+
