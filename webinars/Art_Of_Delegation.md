@@ -17,4 +17,9 @@ By: Muhammad Waqar Aqil on 18th Jan 2025
 | :--- | :-------: | ---:|
 | 2  |  2^2  | 2 ^ n |
 
+## Element of Delegation
+- Readiness
+- Urgency
+
+![image](https://github.com/user-attachments/assets/8d58c1ca-7e6e-431b-b268-6ed972343021)
 
