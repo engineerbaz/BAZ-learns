@@ -21,5 +21,9 @@ By: Muhammad Waqar Aqil on 18th Jan 2025
 - Readiness
 - Urgency
 
-![image](https://github.com/user-attachments/assets/8d58c1ca-7e6e-431b-b268-6ed972343021)
+ 
+![image](https://github.com/user-attachments/assets/cb88468b-4e1d-4a80-9eb6-a54aca71c7f8)
 
+
+### When to Delegate
+Delegate task if someone else can do it at least 70% as well as you.
