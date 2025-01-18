@@ -11,3 +11,7 @@ By: Muhammad Waqar Aqil on 18th Jan 2025
 - Authotity is Delegated
 - Responsibility is Assumed
 - Accountability is Imposed
+
+
+Doning  --> Assigning --> Delegating
+2 --> 2^2 ----> 2 ^ n
