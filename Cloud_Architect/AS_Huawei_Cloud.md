@@ -21,10 +21,20 @@ Policy can  be of
 - Periodic
 
 Scaling Action Management
-- Instance Protection
-- Lifecycle Hook
-- Standby Instance
+- Instance Protection (prevents ECS removal)
+- Lifecycle Hook (suspend scaling action )
+- Standby Instance (unbound and do not recieve traffic)
 
 Reliable Scaling
+- 
+
+
+
+
+
+
+
+
+
 - Health Check
 - AZs
