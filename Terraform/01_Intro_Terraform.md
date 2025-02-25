@@ -32,3 +32,7 @@ Then setup Variable -->
 | AWS_ACCESS_KEY_ID | <your Key ID > |
 | AWS_SECRET_ACCESS_KEY | <your secret Key> |
 
+---
+
+Link 
+https://www.linkedin.com/learning/learning-terraform-15575129/basic-resource-types?autoSkip=true&resume=false
