@@ -17,7 +17,7 @@ Infrastructure as Code
 
 
 ## Terraform Cloud 
-Go to terraform.io(terraform.io) and login
+Go to [terraform.io](terraform.io) and login
 - Try
 - Create Organization
 - Create Workspace --> connect to VCS --> github
