@@ -12,6 +12,10 @@ Terraform is an infrastructure management tool by HashiCorp for provision, manag
 - Create User 
 Goto Security Credentials --> Create Access Keys --> Third Party Service 
 
+## How Terraform Workspace
+Infrastructure as Code 
+
+
 ## Terraform Cloud 
 Go to terraform.io(terraform.io) and login
 - Try
@@ -27,3 +31,4 @@ Then setup Variable -->
 
 | AWS_ACCESS_KEY_ID | <your Key ID > |
 | AWS_SECRET_ACCESS_KEY | <your secret Key> |
+
