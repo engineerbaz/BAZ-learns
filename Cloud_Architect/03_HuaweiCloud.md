@@ -30,13 +30,29 @@ Import local images to cloud platform
 
 Other types needs to be converted first using OpenSource software **qemu image** or Huawei Tool **qemu image Huawei**
 
+![image](https://github.com/user-attachments/assets/2bff3c60-c872-4464-a5d8-635cb69cf752)
+
+
 ### Scenario - Deploying a Specific Software Enviornment
 You can use shared of Marketplace images to quickly build custom Software Enviornment without having to manually configuration
 
 ### Scenario -  Backup Server 
 create an image from an ECS to back up the ECS.For regulare backup CSBS and VBS can be used.
 
-**iso** image can be used to create image for creating ECS.
+**iso** image can be used to create image for creating ECS. <br>
 
-**Create a System Disk Image from a Windows ECS**
+**Create a System Disk Image from a Windows ECS** <br>
+
 Start --> Configure a Windows ECS --> Install CloudBase-Init ---> Instal the PV driver and UVP VMTools --> Use Windows ECS to create a System Disk ---> End
+
+<br>
+
+Cloud_init for Linux and CloudBase or CloudBase-Init (for Windows) use for intialization specific user data (name, host)
+
+<br>
+
+### Exporting Image
+- Store teh image on specified storage device
+- Sue teh imahe to create server on other cloud platforms
+- Image can be exported to qcow2, vmdk, vhd, zvhd formates in OBS then it can be downloaded.
+
