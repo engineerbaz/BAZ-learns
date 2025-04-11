@@ -49,10 +49,16 @@ Start --> Configure a Windows ECS --> Install CloudBase-Init ---> Instal the PV 
 
 Cloud_init for Linux and CloudBase or CloudBase-Init (for Windows) use for intialization specific user data (name, host)
 
-<br>
-
 ### Exporting Image
 - Store teh image on specified storage device
 - Sue teh imahe to create server on other cloud platforms
 - Image can be exported to qcow2, vmdk, vhd, zvhd formates in OBS then it can be downloaded.
+
+### Create Image
+Before creating system disk from running ECS, make sure DHCP is enabled and working and Cloud_init is installed (If not install it )
+```shell
+rpm qa | grep -i cloudInit
+yum install cloud-init 
+
+```
 
