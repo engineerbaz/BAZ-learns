@@ -12,3 +12,31 @@ BMS are good for dedicated tasks.
 3. Enhance High Speed Network (High quality, speed and low latency for internal network for BMS each other communicate each other )
 4. User Defined VLAN ()
 5. InfiiniBrand (For HPC project, low latency and high Bandwidth - Works between servers for duplication, replication)
+
+## IMS
+Image Management System.
+- Public 
+- Private 
+- Shared 
+- Market place 
+
+### Scenario - Migrating Servers to the Cloud or in the Cloud
+
+Import local images to cloud platform
+- VMDK
+- VHD
+- QCOW2
+- RAW
+
+Other types needs to be converted first using OpenSource software **qemu image** or Huawei Tool **qemu image Huawei**
+
+### Scenario - Deploying a Specific Software Enviornment
+You can use shared of Marketplace images to quickly build custom Software Enviornment without having to manually configuration
+
+### Scenario -  Backup Server 
+create an image from an ECS to back up the ECS.For regulare backup CSBS and VBS can be used.
+
+**iso** image can be used to create image for creating ECS.
+
+**Create a System Disk Image from a Windows ECS**
+Start --> Configure a Windows ECS --> Install CloudBase-Init ---> Instal the PV driver and UVP VMTools --> Use Windows ECS to create a System Disk ---> End
