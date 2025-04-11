@@ -37,6 +37,9 @@ Reliable Scaling
 - Add Instances in group
 - View Monitoring metric
 
+Scaling action triggered by configured AS policies
+Cool Down period: Execution interval of Alarm-based Policy
+
 ## Steps for Bandwidth AS 
 - Create AS Bandwith Scaling
 - Scaling Policy (EIP
