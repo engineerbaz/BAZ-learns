@@ -62,3 +62,10 @@ yum install cloud-init
 
 ```
 
+## CCE 
+Cloud Container Engine, a managed Kubernetes Service. 
+- ECS & BMS can be added in a cluster. 
+- Multiple Master nodes can be added and it can be in diffent AZs
+
+
+
