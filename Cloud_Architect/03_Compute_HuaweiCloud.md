@@ -67,5 +67,7 @@ Cloud Container Engine, a managed Kubernetes Service.
 - ECS & BMS can be added in a cluster. 
 - Multiple Master nodes can be added and it can be in diffent AZs
 
-
-
+- **Scenario - Auto Cluster Scaling** CCE adjusts compute resources based on Auto Scaling
+- **Scenario - DevOps** CCE Automatically completes code compilation, image build, grayscale release and container based deployment based on code sources. 
+- **Scenario - Hybrid Cloud** Allows you to seamlessly Migrate application and data between Private and public cloud, as a DR 
+- **Scenario - AI Computing** CCE helps outstanding computing
