@@ -71,3 +71,9 @@ Cloud Container Engine, a managed Kubernetes Service.
 - **Scenario - DevOps** CCE Automatically completes code compilation, image build, grayscale release and container based deployment based on code sources. 
 - **Scenario - Hybrid Cloud** Allows you to seamlessly Migrate application and data between Private and public cloud, as a DR 
 - **Scenario - AI Computing** CCE helps outstanding computing
+
+### Configuration process
+Start --> CCE COnsole --> Create Cluster --> Deploy Workload --> End
+
+CCE Cluster can be upgraded, but not revert back. 
+CCE Cluster with BMS or nodes with Private images , CCE Turbo cluster and Kunpeng Cluster can not be upgraded.
