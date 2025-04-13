@@ -11,6 +11,10 @@ Application Scenario
 - VPC connectivity
 - Hybrid Cloud Deployment 
 
+Network ACL and Security Group works together for fine grained policies <br>
+
+L2CG - Layer 2 CG is a virtual tunnel gateway works with Direct Connect or VPN to establish Network communication between cloud an onprem.
+
 
 ENI (Elastic Network Interface)
 
