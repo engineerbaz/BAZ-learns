@@ -78,6 +78,29 @@ Start --> CCE COnsole --> Create Cluster --> Deploy Workload --> End
 CCE Cluster can be upgraded, but not revert back. 
 CCE Cluster with BMS or nodes with Private images , CCE Turbo cluster and Kunpeng Cluster can not be upgraded.
 
+
+## Security Group
+- Protect instances like ECSs, databases, and containers
+- Mandatory layer of protection
+- Control traffic to and from instances based on protocol, port, and IP address
+- Act as a virtual firewall for instances
+
+## Network ACLs
+- Protect entire subnets and all resources within
+- Optional layer of protection
+- Control traffic flowing in and out of subnets
+- Provide an additional layer of security beyond security groups
+- Can be used to restrict access between different network segments
+
+**Key differences:**
+- Scope: Security groups protect individual instances, while Network ACLs protect entire subnets.
+- Purpose: Security groups focus on instance-level security, whereas Network ACLs provide subnet-level security.
+- Usage: Security groups are required, while Network ACLs are optional but recommended for added security.
+
+**When to use each:**
+- Use security groups to control traffic to specific instances.
+- Use Network ACLs to control traffic flowing in and out of entire subnets, providing an additional layer of security
+
+
 --
-Chapter 4 
-CCE 
+Chapter 4 End
