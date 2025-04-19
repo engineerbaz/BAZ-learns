@@ -56,7 +56,13 @@ ENI (Elastic Network Interface)
 ``curl localhost:8889`` for checking server on port 8889
 
 
+## VPN (Virtual Private Network)
+VPN allows you to establish an encypted , internet-based communication tunnel between on-premises data center and a VPC,
+- VPN Gateway (rovides an internet egress for a VPC )
+- VPN Connection (an encypted connetcion that links the VPN Gatewayto remote gateway)
 
+VPN can be used for 
+- Site to Site , Hub-and Spoke, IPSec VPN, 
 
 ----
 
