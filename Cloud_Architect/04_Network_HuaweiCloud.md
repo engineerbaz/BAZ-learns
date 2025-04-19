@@ -46,6 +46,11 @@ ENI (Elastic Network Interface)
   - Eliminating SPOF 
   - Cross AZ LoadBalancing (If AZ becomes faulty, traffic can be distributed) 
 
+- Backend server can be ECS, BMS or CCE
+- AS (Auto Scaling) and Anit DDoS can support for Automatically adds or remove Backend Server and Defend DDoS
+
+### Usage of ELB 
+
 
 ----
 
