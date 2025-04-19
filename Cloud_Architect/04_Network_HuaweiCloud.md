@@ -22,7 +22,22 @@ ENI (Elastic Network Interface)
 
 ![image](https://github.com/user-attachments/assets/661e64e3-12cc-45b8-8991-3e6585a0b0e5)
 
+## Elastic Load Balance
+- Automatically distribute incomming traffic across multiple backend server,  improves availability and eliminate SPOF
+- Can have 100 million concurrent session
+- ELB Architecture
+  - LoadBalancer (Distribute traffic, LB on Public network has an EIP, while ELB on Private network is bind to a VPC)
+  - Listerner (listens on requests from client and routes the requests to Backend servers)
+  - Backend Server 
+- You can add health check as well 
+
+- Application Scenario: Heavy Traffic 
+- Application Scenario: Different traffic
+- Application Scenario: Eliminating SPOF 
+- Application Scenario: Cross AZ LoadBalancing (If AZ becomes faulty, traffic can be distributed) 
+
 
 ----
+
 <br>
-5.1.1 Virtual Private Cloud (VPC)
+5.2.1 ELB
