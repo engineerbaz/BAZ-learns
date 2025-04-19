@@ -64,7 +64,17 @@ VPN allows you to establish an encypted , internet-based communication tunnel be
 VPN can be used for 
 - Site to Site , Hub-and Spoke, IPSec VPN, 
 
+
+### Usuage of VPN
+--------------
+- ECS in same VPC and same AZ , can communicate
+- ECS in different VPC, different AZ, use VPC Peering 
+- ECS in different Region, use VPN
+---------------------
+
+
+
 ----
 
 <br>
-5.2.1 ELB
+5.2.1 VPN
