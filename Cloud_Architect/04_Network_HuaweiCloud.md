@@ -27,14 +27,24 @@ ENI (Elastic Network Interface)
 - Can have 100 million concurrent session
 - ELB Architecture
   - LoadBalancer (Distribute traffic, LB on Public network has an EIP, while ELB on Private network is bind to a VPC)
-  - Listerner (listens on requests from client and routes the requests to Backend servers)
-  - Backend Server 
+  - Listerner (listens on requests from client and routes the requests to Backend servers) 
+  - Backend Server (Backend server group atlest one server to process client)
+    - Round Robin
+    - Least Connection 
+    - Source IP Hash
+    - Connection ID 
+  
 - You can add health check as well 
+  - UDP 
+  - TCP 
+  - HTTP 
+- 100.125.0.0/16 must allowed in Security Group
 
-- Application Scenario: Heavy Traffic 
-- Application Scenario: Different traffic
-- Application Scenario: Eliminating SPOF 
-- Application Scenario: Cross AZ LoadBalancing (If AZ becomes faulty, traffic can be distributed) 
+- Application Scenario 
+  - Heavy Traffic 
+  - Different traffic
+  - Eliminating SPOF 
+  - Cross AZ LoadBalancing (If AZ becomes faulty, traffic can be distributed) 
 
 
 ----
