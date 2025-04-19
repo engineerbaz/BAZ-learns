@@ -52,6 +52,12 @@ ENI (Elastic Network Interface)
 ### Usage of ELB 
 
 
+``nohup python -m SimpleHTTPServer 8889 > /dev/null 2>&1 &``  for simple web server
+``curl localhost:8889`` for checking server on port 8889
+
+
+
+
 ----
 
 <br>
