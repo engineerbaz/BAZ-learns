@@ -72,6 +72,12 @@ VPN can be used for
 - ECS in different Region, use VPN
 ---------------------
 
+## NAT Gateway (Network Address Translation)
+- NAT Gatewayprovides NAT services for servers in a VPC and enables server to share EIP and access internet 
+- NAT can deployed across AZs
+- It can be in Public or Private network
+- Public NAT Gateway provides SNAT & DNAT 
+- DNAT 
 
 
 ----
