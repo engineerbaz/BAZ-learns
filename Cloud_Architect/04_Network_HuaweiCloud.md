@@ -86,9 +86,20 @@ VPN can be used for
 **Public NAT Gateway**
 - Using DNAT , Lets server in a VPC to provide service accessible form the Internet
 
+#### SNAT
+- Add a SNATrule to allow servers in a VPC to access the Internet using a shared EIP
+- Select Subnet and add a sn SNAT rule
+- If server in a VPC and need to access the Internet , Select VPC
+- If your on-premises server access a VPC over a DC or VPN connection 
+
+
+#### DNAT 
+- Add a DNAT rule to allow servers ina VPC to provide external Service 
+- Add a DNAT rule for a specific server.
+- Port ranges from 1 to 65,535
 
 
 ----
 
 <br>
-5.2.1 VPN
+5.2.4 NAT 
