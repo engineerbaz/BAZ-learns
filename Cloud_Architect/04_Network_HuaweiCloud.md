@@ -77,7 +77,8 @@ VPN can be used for
 - NAT can deployed across AZs
 - It can be in Public or Private network
 - Public NAT Gateway provides SNAT & DNAT 
-- DNAT 
+- SNAT allowing multiple private address to a EIP in diffent AZs to access Internet
+- DNAT enables multiple servers to share EIP so service in accessible from Internet. With an EIP a NAT Gatewayf orwards the Internet requests from aonly a specific por or server
 
 
 ----
