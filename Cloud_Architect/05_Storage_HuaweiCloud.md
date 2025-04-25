@@ -48,3 +48,10 @@ Elastic Volume Service offers block stroage for cloud server.
 **Data Rebuild**
 If a physical server or disk is faulty, storage system Automatically Rebuild data. 
 
+`fdisk -l ` for checking disk <br>
+`fdisk /dev/vdb` to selct disk  <br>
+crete partition as primary , 1 is deafult , select size value .<br>
+`partprobe` to syncronize <br>
+`mkfs -t ext4 /dev/vdb` make filesystem <br> 
+`mkdir /mnt/sdc ` create directory <br>
+`mount /dev/vdb1 /mnt/sdc ` mount disk. 
