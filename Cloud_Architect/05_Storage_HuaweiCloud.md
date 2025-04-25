@@ -7,3 +7,44 @@
 
 ## EVS 
 Elastic Volume Service offers block stroage for cloud server.
+
+**EVS Performance Metric**
+- IOPS
+  - Input Output Operations per Second) number of read and write operations supported per Second
+- Throughput
+  - amount of data that can be read from and written into an EVS per Second
+- Read/Write I/O Latency
+  - Minimum Interval between two consective read/write operations
+
+#### EVS Device Type
+- VBD
+  - Default 
+  - support only basic RW SCSI commands
+- SCSI 
+  - support transparent SCSI commands transmission and the cloud server OS can Directly access underlying stroage media
+  - Besides basic RW, also support advanced SCSI commands
+  - SCSCI can be used for BMS
+
+**Shared EVS Disks**
+- Can attached to multiple ECS/BMS and support concurrent access.
+- normally used for mission critical application that require cluster Deployment/ HA  
+- max shared EVS can connect to 16 servers
+
+**Disk Backup vs Snapshot**
+- EVS Disk Backup 
+  - can be done with CBR 
+  - Backup stored in OBS
+  - backup and disk should be in same AZ  
+- Snapshot 
+  - is a complete copy or image of disk data taken at a specifi point in time. \
+  - Snapshot are stored with the disk data.
+  - Snapshot and disk in same AZ 
+  - Snapshot can be used to rollback or restore
+
+### EVS Three Copy Redunancy 
+- Each piece of data is divided into 1 MB blocks , Each block is saved on 3 different nodes.  
+- Write:Read ratio should be greater than number of copies
+
+**Data Rebuild**
+If a physical server or disk is faulty, storage system Automatically Rebuild data. 
+
