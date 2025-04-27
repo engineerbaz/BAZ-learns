@@ -64,3 +64,11 @@ create partition as primary (by pressing n) , 1 is default (by p) , select size 
 `mkdir /mnt/sdc ` create directory <br>
 `mount /dev/vdb1 /mnt/sdc ` mount disk. 
 `df -TH` to verify 
+
+## OBS 
+Object Storage Service for optimized for storing massive amount of data and provides secure and highly reliable storage at low cost. 
+- Can be access via API, SDK and console.
+- Five Level Reliablity. 
+- 100 billion object, 10 million concurrent access
+- Multi Level protection ,authorization Management
+- Tiered and two billing mode. 
