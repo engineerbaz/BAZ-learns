@@ -72,3 +72,8 @@ Object Storage Service for optimized for storing massive amount of data and prov
 - 100 billion object, 10 million concurrent access
 - Multi Level protection ,authorization Management
 - Tiered and two billing mode. 
+- stores all object in same logical layer
+- An Object is basic data storage unit in OBS (comprise of Key, Data and Metadata)
+  - Key specify name of object and UTF-8 string between 1 to 124 character 
+  - Metadata describe the object, key value pair, type user-defined and system-defined (date, Content-length, modified)
+  - Data refer to content 
