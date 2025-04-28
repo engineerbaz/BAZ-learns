@@ -130,9 +130,11 @@ Scalable File Service provides reliable , High Performance shared file storage h
 - POSIX (Portable OS Interface) to achiev software 
 - DHCP controls IP address assignment
 
-### Mounting SFS 
+### Configure SFS 
+
+``nslookup file-sys-domain-name`` check resolution  
 `mkdir /mounting-point` create directory for mounting point 
-mount 
+``mount -t nfs -o vers=3 timeo=600 file-sys-domain-name mount-point`` mount File System to server (Linux Server using NFS v3)
 
 --------------------------
 
