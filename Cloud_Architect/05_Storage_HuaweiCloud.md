@@ -133,3 +133,8 @@ Scalable File Service provides reliable , High Performance shared file storage h
 ### Mounting SFS 
 `mkdir /mounting-point` create directory for mounting point 
 mount 
+
+--------------------------
+
+
+![image](https://github.com/user-attachments/assets/83710e5d-a5bc-4b20-aba5-7ff1b324f139)
