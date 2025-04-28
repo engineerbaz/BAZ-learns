@@ -67,7 +67,7 @@ create partition as primary (by pressing n) , 1 is default (by p) , select size 
 
 ## OBS 
 Object Storage Service for optimized for storing massive amount of data and provides secure and highly reliable storage at low cost. 
-- Can be access via API, SDK and console.
+- Can be access via API, SDK OBS Browser+, obsutil, obsfs and console.
 - Five Level Reliablity. 
 - 100 billion object, 10 million concurrent access
 - Multi Level protection ,authorization Management
@@ -77,3 +77,41 @@ Object Storage Service for optimized for storing massive amount of data and prov
   - Key specify name of object and UTF-8 string between 1 to 124 character 
   - Metadata describe the object, key value pair, type user-defined and system-defined (date, Content-length, modified)
   - Data refer to content 
+
+### AK / SK 
+- AK as Access Key
+- SK is Security Key
+- AK/SK based encryption to authhenticate a request sender.
+- Error 4-3 code is returned if no acccess.
+
+### Appkication Scienario
+- Big Data Analytics 
+- Static Website Hosting 
+- Enterprise Cloud Box 
+- Backup and Archive (Advised to use OBS with DES {Data Express Servcie})
+
+#### Accessing OBS 
+- OBS Browser+ [Install and get AK/SK from account], 100 accounts can be saved, with no history 
+- OBS console
+- API & SDk 
+- obsutil 
+- obsfs 
+
+**Server Side Encryption** OBS encrypt object before saving on server 
+
+**Cross Region Replication** provides diasaster recovery across regions, with replication rules configured, OBS automatically and asynchronously replicates data from a source bucket to a destination bucket in other region.
+ 
+**Lifecycle Management** users can configure rules to periodically delete objects or tansition object storage classes 
+
+### Permission Management of OBS
+- IAM Permission
+  - Apply to cloud Resources
+  - Define action that are allowe or denied.
+  - Access control - IAM Permission 
+    - Tenant Administrator - Allows users to perform any opertions on OBS Resources
+    - Tenant Guest Allows user to query OBS usuage 
+    - OBD Bucket Viewer - allows user to obtains the bucket list, meta data and location information 
+- Bucket policies Object Policyes
+  - Apply to a bucket and object in it 
+  - Apply to object in a bucket. 
+
