@@ -115,3 +115,21 @@ Object Storage Service for optimized for storing massive amount of data and prov
   - Apply to a bucket and object in it 
   - Apply to object in a bucket. 
 
+## SFS 
+Scalable File Service provides reliable , High Performance shared file storage hosted on Cloud.File can access spaning multiple ECSs. BMS. and Containers
+ - Seamless integration with NFS, CIFS
+ - Low Latency storage 
+
+- High Performance Computing
+- Media Processing (multi layer HD and 4K )
+- Content Manage & Web Service
+- File Sharing 
+
+- NFS Network File system
+- CIFS Common Internet FS (allow files to be accessed on Internet)
+- POSIX (Portable OS Interface) to achiev software 
+- DHCP controls IP address assignment
+
+### Mounting SFS 
+`mkdir /mounting-point` create directory for mounting point 
+mount 
