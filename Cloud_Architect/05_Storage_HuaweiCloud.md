@@ -147,4 +147,4 @@ Write ``\\file-sys-domain-name\path``
 ---
 
 
-https://talent.shixizhi.huawei.com/course/1365189427395223554/application-learn?status=published&courseId=204620309830041604&id=206495617885667548&appId=206495617885667549&classId=206495617885667550&courseType=1&sxz-lang=en_US&headershow=false&source=open#026f110a54aa4558abff702c8e1bce1e
+[refer](https://talent.shixizhi.huawei.com/course/1365189427395223554/application-learn?status=published&courseId=204620309830041604&id=206495617885667548&appId=206495617885667549&classId=206495617885667550&courseType=1&sxz-lang=en_US&headershow=false&source=open#026f110a54aa4558abff702c8e1bce1e)
