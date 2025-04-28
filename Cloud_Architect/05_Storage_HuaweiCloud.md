@@ -131,12 +131,20 @@ Scalable File Service provides reliable , High Performance shared file storage h
 - DHCP controls IP address assignment
 
 ### Configure SFS 
-
+**For Linux**
 ``nslookup file-sys-domain-name`` check resolution  
 `mkdir /mounting-point` create directory for mounting point 
 ``mount -t nfs -o vers=3 timeo=600 file-sys-domain-name mount-point`` mount File System to server (Linux Server using NFS v3)
 
+**For Windows** Using CIFS
+Start --> right click Computer --> Map Network drive <br> 
+Write ``\\file-sys-domain-name\path``
 --------------------------
 
 
 ![image](https://github.com/user-attachments/assets/83710e5d-a5bc-4b20-aba5-7ff1b324f139)
+
+---
+
+
+https://talent.shixizhi.huawei.com/course/1365189427395223554/application-learn?status=published&courseId=204620309830041604&id=206495617885667548&appId=206495617885667549&classId=206495617885667550&courseType=1&sxz-lang=en_US&headershow=false&source=open#026f110a54aa4558abff702c8e1bce1e
