@@ -107,7 +107,8 @@ Object Storage Service for optimized for storing massive amount of data and prov
 - IAM Permission
   - Apply to cloud Resources
   - Define action that are allowe or denied.
-  - Access control - IAM Permission 
+  - Access control 
+**IAM Permission**
     - Tenant Administrator - Allows users to perform any opertions on OBS Resources
     - Tenant Guest Allows user to query OBS usuage 
     - OBD Bucket Viewer - allows user to obtains the bucket list, meta data and location information 
@@ -120,6 +121,7 @@ Scalable File Service provides reliable , High Performance shared file storage h
  - Seamless integration with NFS, CIFS
  - Low Latency storage 
 
+**Use Cases**
 - High Performance Computing
 - Media Processing (multi layer HD and 4K )
 - Content Manage & Web Service
