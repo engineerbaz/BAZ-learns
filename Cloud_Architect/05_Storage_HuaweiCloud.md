@@ -143,7 +143,7 @@ Start --> right click Computer --> Map Network drive <br>
 Write ``\\file-sys-domain-name\path``
 
 #### Usuage of SFS 
-**Sharing data between Linux & Windows ECSs**
+**Sharing data between Linux & Windows ECSs** <br>
 Mounting SFS on Linux and connect with Windows 
 - Create SFS service 
 - Install packages
