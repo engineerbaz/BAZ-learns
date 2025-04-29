@@ -141,6 +141,44 @@ Scalable File Service provides reliable , High Performance shared file storage h
 **For Windows** Using CIFS
 Start --> right click Computer --> Map Network drive <br> 
 Write ``\\file-sys-domain-name\path``
+
+#### Usuage of SFS 
+**Sharing data between Linux & Windows ECSs**
+Mounting SFS on Linux and connect with Windows 
+- Create SFS service 
+- Install packages
+``yum -y intsall nfs-utills`` installing package
+``yum install bind-utills``
+``rpm -qa | grep nfs ``Check package installed
+- Mount 
+  - Copy ,mounting point from console 
+  - run following<br>
+``nslookup sfs-nas01.ao-south.myhuaweicloud.com`` to check if it is mapped. <br>
+``nslookup <mount-point>`` to check if it is mapped. <br>
+mkdir /local/folder <br>
+``mount -t nfs -o vers=3,timeo=600,nolock <mount-point> /local/folder`` <br>
+``mount -l`` to check mounts <br>
+or ``unmount /local/folder ``if you want to unmount <br>
+To make it permenent <br>
+``vi /etc/fstab`` add line  
+``<mount-point> /local/folder nfs vers=3,timo=600,nolock 0 0`` 
+- Now move to Windows ECS 
+  - Open Server manger 
+  - Add Roles & Feature 
+  - Select File and Storage Service  --> Server for NFS 
+  - Select Client for NFS
+  - Install  
+  - Restart ECS
+  - Go to Control Panel --> System & Security --> Administratorative Tools
+  - Select Service for NFS
+  - Right cliuck on Client for NFS and Select PROPERTIES 
+  - Change Tranport Protocal to TCP 
+  - Change Deafult mout type o hard mount 
+  - In command line 
+    - run mount -o nolock <mount-point> <drive-letter>
+    - run mount -o nolock sfs-nas0.ap-south.mycoloud.com x:
+
+
 --------------------------
 
 
