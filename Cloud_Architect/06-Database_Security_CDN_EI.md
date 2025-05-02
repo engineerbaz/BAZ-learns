@@ -45,3 +45,28 @@ DBA and Delivery & O&M Personals can manage and deploy
 - Point In time recovery (PITR) 
   - Instance level restoration is second 
   - Automatic backup can be configured to be saved upto 732 days 
+
+
+### RDS fpr Postgre SQL 
+- Typical Open source University of California in USA
+- supports Internet e-commerence , geographic location application system, financial insurance system, complexe object processing 
+- OLTP 
+- Easy Migration DRS (Data Replication Service) provides online and offline migration and is compatible with third party databases (Oracle)
+
+Architecture is much similar to MySQL 
+
+**Application Scienario**
+- Mixed Mode Operations 
+  - OLTP & OLAP
+- Multiple data models 
+- High Reliablity
+- Oracle Replacement
+  - RDS for PostgreSQL Enhanced edition 
+  - RDS for PostgreSQL Community and Oracle Plugins
+
+**Features**
+- High Availability
+  - Switching in no time Standby doesnt handle traffic , only ensures RTO 
+- PITR : Point-In-Time Recovery 
+  - Backup cycle 7 to 732 days 
+  - Data archived in OBS can be restored to any point in time
