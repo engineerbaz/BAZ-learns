@@ -35,10 +35,13 @@ DBA and Delivery & O&M Personals can manage and deploy
 - IoT 
 
 
-Feature
+**Feature** <br>
 - Cross-AZ HA 
-- Supports switchover in seconds
+  - for DR , 
+  - upto 5 read replicas 
+  - Supports switchover in seconds
 - Read/Write Splitting 
 - Write request on primary
 - Point In time recovery (PITR) 
-- Instance level restoration is second 
+  - Instance level restoration is second 
+  - Automatic backup can be configured to be saved upto 732 days 
