@@ -17,9 +17,28 @@ MySQL world's most popular open source relational database.
 - Works with LAMP (Linux, Apache, PHP)
 - Reliable , Scalable, inexpensive, easy to manage, and immediately ready to use.
 - Performance, (HWSQL) Huawei enhaced MySQL kernel provides 3 times higher Performance in high-concurrency 
-- Security, - Certified by China Ministry of Public Security 
+- Security: Certified by China Ministry of Public Security 
 - Efficiency : Web based Management console provides an easy way to create, scale, monitor and operate DB instance
 - Reliablity: Enhanced semi-synchronous replication prevents data loss. Automatic failover takes only a few seconds, ensuring a low recovery time object (RTO)
 
+### Arcgitecture 
+DBA and Delivery & O&M Personals can manage and deploy 
+- Instance Management 
+- Log Management
+- 732 days retention time.
 
-### RDS for MySQL 
+
+#### Appkication Scienario RDS for MySQL 
+- User of other cloud vendor
+- fast growing start ups 
+- Internet, ecommerce and game 
+- IoT 
+
+
+Feature
+- Cross-AZ HA 
+- Supports switchover in seconds
+- Read/Write Splitting 
+- Write request on primary
+- Point In time recovery (PITR) 
+- Instance level restoration is second 
