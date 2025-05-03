@@ -70,3 +70,12 @@ Architecture is much similar to MySQL
 - PITR : Point-In-Time Recovery 
   - Backup cycle 7 to 732 days 
   - Data archived in OBS can be restored to any point in time
+
+
+### DDS (Document Database Service)
+- High Performance, high Availability MongoDB-Comptabile Database
+- provides one-click Deployment, elastic capacity expansion, diasaster recovery, backup, restoration, monitoring and alarm reporting.
+- 3-types of architecture 
+  - cluster
+  - replica sets and 
+  - single node
