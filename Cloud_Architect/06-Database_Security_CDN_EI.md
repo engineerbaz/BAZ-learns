@@ -123,3 +123,10 @@ Send log via HTTP and HTTPS
 **How WAF Works** WAF inspect traffic, filter out malicous traffic and route only normal traffic to origin server. 
 - Basic Protection (Common protection) 
 - Data Leak 
+- Defence again Zero Day Vulnerability
+
+## DEW 
+- Data Encryption Workshop is a cloud data encryption service 
+- Key Management Service (KMS) key hosting service 
+- Key Pair Service (KPS) , easy to use SSH key pair hosting service
+- Dedicated Hardware Security Module (Dedicated HSM) use for encryption/decryption, signature, signature verification, key generation and secure storage of key.
