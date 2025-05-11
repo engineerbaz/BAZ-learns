@@ -115,7 +115,7 @@ Send log via HTTP and HTTPS
 - proactive security
 
 
-## WAF 
+### WAF 
 - keeps website safe and stable 
 - examines web traffic to accurately identify malicious traffic
 - uses OWASP , SQL injection , Attacks, XSS attacks, remote code execution and code injection 
@@ -125,7 +125,7 @@ Send log via HTTP and HTTPS
 - Data Leak 
 - Defence again Zero Day Vulnerability
 
-## DEW 
+### DEW 
 - Data Encryption Workshop is a cloud data encryption service 
 - Key Management Service (KMS) key hosting service 
 - Key Pair Service (KPS) , easy to use SSH key pair hosting service
@@ -134,7 +134,7 @@ Send log via HTTP and HTTPS
   - verification
   - payment
 
-## IAM 
+### IAM 
 - Identity & Management Service 
 - helps you to manage users and control their acccess service and resources 
 - manage bith credentials and access keys
@@ -143,3 +143,10 @@ Provides following
 - Federated access with existing Enterprise account
 - Finer Access control of Huawei cloud resources
 - Delegated access to resources across account
+
+## Content Delivery Network (CDN) 
+- an intelligent virtual network built on top of existing internet infrastructure
+- 2000+ nodes in mainland China 
+- 500+ nodes across 70 countirs 
+- Website acceleration
+- VOD acceleration
