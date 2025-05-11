@@ -130,3 +130,16 @@ Send log via HTTP and HTTPS
 - Key Management Service (KMS) key hosting service 
 - Key Pair Service (KPS) , easy to use SSH key pair hosting service
 - Dedicated Hardware Security Module (Dedicated HSM) use for encryption/decryption, signature, signature verification, key generation and secure storage of key.
+  - Can be used in sensitive data encryption
+  - verification
+  - payment
+
+## IAM 
+- Identity & Management Service 
+- helps you to manage users and control their acccess service and resources 
+- manage bith credentials and access keys
+
+Provides following 
+- Federated access with existing Enterprise account
+- Finer Access control of Huawei cloud resources
+- Delegated access to resources across account
