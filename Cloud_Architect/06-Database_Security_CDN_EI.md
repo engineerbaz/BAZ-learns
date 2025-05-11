@@ -75,7 +75,51 @@ Architecture is much similar to MySQL
 ### DDS (Document Database Service)
 - High Performance, high Availability MongoDB-Comptabile Database
 - provides one-click Deployment, elastic capacity expansion, diasaster recovery, backup, restoration, monitoring and alarm reporting.
+- logs can be saved till 2 years.
 - 3-types of architecture 
   - cluster
-  - replica sets and 
+    - recomended for service systems that require both high Availability and scalability
+  - replica sets
+    - suited for small and medium service that required high Availability
   - single node
+    - useful for R&D, testing and non core data storage 
+
+**Basic Concepts**
+- mongos
+  - Routes read and write request , providing a unified interface for accessing DB instance
+- configure
+  - Deployed as a replica set and stores instance config data 
+- shard 
+  - stores user data 
+
+**Application Scienario**
+- Gaming 
+- IoT 
+- Internet
+
+## Security
+
+### HSS 
+- Helps in identify and manage assets on your server. 
+- Elimenate risks, and defend against intrustions and web page tampering. 
+Feature
+Precision defense: Blocks attacks with pinpoint accuracy by using advanced detection technoogies and diverse librares
+
+Install HSS agent
+Send log via HTTP and HTTPS 
+- account protection 
+- Risk assesment
+- centralized management 
+- intrustion detection 
+- security compliance 
+- proactive security
+
+
+## WAF 
+- keeps website safe and stable 
+- examines web traffic to accurately identify malicious traffic
+- uses OWASP , SQL injection , Attacks, XSS attacks, remote code execution and code injection 
+ 
+**How WAF Works** WAF inspect traffic, filter out malicous traffic and route only normal traffic to origin server. 
+- Basic Protection (Common protection) 
+- Data Leak 
