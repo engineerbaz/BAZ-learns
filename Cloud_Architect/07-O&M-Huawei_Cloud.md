@@ -37,9 +37,13 @@ Event Monitoring, You can query system and custom Event reported to Cloud.
 - LTS keeps your logs secure with HTTPS 
 - ICAgent collects and send logs .
 
+<br>
 
+**Log Group**: basic unit in LTS <br>
+**Log Stream**: log read and write. <br> 
+**ICAgent**:log collection tool. <br>
 
-
+LTS works with AOM for logs. 
 
 
 
