@@ -49,3 +49,12 @@ LTS works with AOM for logs.
 
 ## CTS 
 - Compliance audit and Security analysis
+- Auditing is process of of gathering and analayze evidance.
+- CTS records operations an cloud resource (Called Trace in cloud)
+- Traces saves in OBS
+
+CTS Architecture 
+- Trace Collection 
+- Trace Query 
+- Trace Transfer 
+- Trace File Encryption
