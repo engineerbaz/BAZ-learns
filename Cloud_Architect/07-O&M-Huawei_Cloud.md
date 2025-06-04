@@ -57,4 +57,14 @@ CTS Architecture
 - Trace Collection 
 - Trace Query 
 - Trace Transfer 
-- Trace File Encryption
+- Trace File Encryption (DEW)
+
+**Tracker** Automatically creates when a CTS is enabled. and identifies all cloud services and records  all opertaions perfomed on service.
+**Trace** Opertaion records captured and stored by CTS. help you identify when a specific opertaion was performed by specific user on specific resoource. 
+- Manage Trace: Traces reported by cloud services.
+- Data Trace : Traces of read and write operations reported by OBS. 
+
+
+=====================
+
+
