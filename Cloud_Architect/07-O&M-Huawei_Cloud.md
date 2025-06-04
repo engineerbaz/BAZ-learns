@@ -67,4 +67,12 @@ CTS Architecture
 
 =====================
 
+## Three Tier Application
 
+Install 
+``yum install -y httpd php php-fpm php-server php-mysql mysql``
+
+upate 
+``vim /etc/httpd/conf/httpd.conf`` goto last line and edit `ServerName localhost:80`
+then download wordpress `wget -c https://wordpress.org/wordpress-4.9.10.tar.gz` and decompress it by `tar -zxvf wordpress-4.9.10.tar.gz -C /var/www/html` gitve Permission `chmod -R 777 /var/www/html`
+Start service of httpd by `systemctl start httpd` and php by `systemctl start php-fpm` later enable both of them by  `systemctl enable httpd` and `systemctl enable php-fpm`
