@@ -15,8 +15,11 @@ Migrate to VM (M2VM)
 
 ![image](https://github.com/user-attachments/assets/e16b60fb-431e-4add-b094-46e94b0bcad4)
 
-Migratio Wave
+Migration Wave
 ![image](https://github.com/user-attachments/assets/e9fc8baf-bfa8-4d70-af4c-814378c19567)
 
+
+
+---
 Weblink: https://youtu.be/4DJgEKZqeqI
 
