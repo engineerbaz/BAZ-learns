@@ -60,3 +60,14 @@ The common cloud system HA design solutions are as follows:
 - The on-premises HA solution applies to on-premises production centers and single-AZ scenarios.
 - The intra-city HA/DR solutions, including an active-active data center solution and an active-passive DR solution, apply to the HA design of intra-city DR centers and dual-AZ scenarios.
 - The remote HA/DR solutions, including a geo-redundant DR solution and an active-passive DR solution, apply to remote DR centers and cross-region HA.
+
+### Cloud Based Perfomance Design
+Design Perfomance measurement and review service status based on performance indicator to optimize cloud based Architecture
+
+- Latency : Refers to the time it takes to start performing an operation.
+- Throughput : An indicator that evaluates daya processing speed. In TXN, it is expressed in bytes/second or bit per second.
+- IOPS : Refers to the number of input / output operations per second. 
+- Concurrency : Refers to the capability of running several programs simultaneously within a period of time.
+
+During Architecture design, you can define key points and thresholds that fit your service ro review the Architecture
+
