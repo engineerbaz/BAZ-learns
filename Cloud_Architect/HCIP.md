@@ -40,4 +40,23 @@ According to the shared responsibility model, users need to effectively manage t
 
 > SLA = 1 - [Downtime/(Downtime = Uptime)]
 
+## Cloud Based Availability Design
 
+- On-Premises HA Solution: (Single AZ)
+  - 
+  - When one or more applications are runing on servers, ensuring application are not interupted if any server is faulty and that application and System can be quickly switched to other server (hot backup)
+- Intra-city HA / DR Solution : (Dual AZ) 
+  - Active-active Data center Solution / Active-passive DR Solution
+  - Refers to the redundancy site built by users in addition to the production site, 
+  - When production site is damaged by a disaster, the redundancy site can take over services from production site to ensure service continuity. 
+  - user can build more than one redundancy site for higher Availability. 
+- Remote HA / DR Solution : (Cross Region) 
+  - Geo redundant DR Solution / Active-passive DR Solution
+  - Generally a DR system is deployed in another city (more than 800 KM away form production site)
+  - When disaster hits, the DR site can recover data, application and services  
+
+
+The common cloud system HA design solutions are as follows:
+- The on-premises HA solution applies to on-premises production centers and single-AZ scenarios.
+- The intra-city HA/DR solutions, including an active-active data center solution and an active-passive DR solution, apply to the HA design of intra-city DR centers and dual-AZ scenarios.
+- The remote HA/DR solutions, including a geo-redundant DR solution and an active-passive DR solution, apply to remote DR centers and cross-region HA.
