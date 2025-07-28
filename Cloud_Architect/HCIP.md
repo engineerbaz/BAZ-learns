@@ -29,3 +29,15 @@ Note:
 
 
 According to the shared responsibility model, users need to effectively manage the internal security of cloud services and security of custom Configuration
+
+### System Design 
+
+>> Availability = Reliability + Maintainability
+
+- Availability: Degree to which a product is AVAIABILE when it needs to and can execute a task at any time. 
+- Reliability: Ability of a product to perform a specified function under specified conditions and within a specified period of time.
+- Maintainability: Ability of a product to be maintained and restored toa previous state under certain conditions and within a specified time period in accordance with specified procedures and method.
+
+> SLA = 1 - [Downtime/(Downtime = Uptime)]
+
+
