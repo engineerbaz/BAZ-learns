@@ -94,7 +94,7 @@ VPN can be used for
 
 
 #### DNAT 
-- Add a DNAT rule to allow servers ina VPC to provide external Service 
+- Add a DNAT rule to allow servers in a VPC to provide external Service 
 - Add a DNAT rule for a specific server.
 - Port ranges from 1 to 65,535
 
