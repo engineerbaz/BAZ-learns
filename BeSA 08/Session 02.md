@@ -34,3 +34,20 @@ Refractor  is most challenging one, as it needs more technicalities.
   - Data residency and compliance requiremnent
  
 <img width="1516" height="830" alt="image" src="https://github.com/user-attachments/assets/7395fba4-b867-446a-be80-d806d93e195b" />
+
+
+---
+
+### AWS Application Migration Sevice (AWS MGN)
+
+
+- MGN is free service, only pays for related services (network, Storage)
+
+Architecture 
+
+Your Datacenter (Servers with Disks) --> Install Replication Agent  ---> AWS S3 
+Replication Servers (in EC2) using EBS  
+- Data plane replication --> Replication Servers 
+- Control Plane traffic --> AWS Application Migration Service --> Replication Servers
+
+
