@@ -27,4 +27,6 @@ Refractor  is most challenging one, as it needs more technicalities.
 - Refactor 
   - Mainframe to Cloud Native 
 - Repurchase
-  - Internally 
+  - Internally
+ 
+<img width="1516" height="830" alt="image" src="https://github.com/user-attachments/assets/7395fba4-b867-446a-be80-d806d93e195b" />
