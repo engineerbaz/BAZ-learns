@@ -46,8 +46,10 @@ Refractor  is most challenging one, as it needs more technicalities.
 Architecture 
 
 Your Datacenter (Servers with Disks) --> Install Replication Agent  ---> AWS S3 
-Replication Servers (in EC2) using EBS  
+In Stagging Area == Replication Servers (in EC2) using EBS  --> Conversion Servers 
+In Production Area ==  EBS --> Instance
 - Data plane replication --> Replication Servers 
 - Control Plane traffic --> AWS Application Migration Service --> Replication Servers
 
 
+ 
