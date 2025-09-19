@@ -35,6 +35,18 @@ Refractor  is most challenging one, as it needs more technicalities.
  
 <img width="1516" height="830" alt="image" src="https://github.com/user-attachments/assets/7395fba4-b867-446a-be80-d806d93e195b" />
 
+---
+
+| Strategy | Migration Complexity | Time and Cost | Optimization | 
+| --- | --- | --- | --- | 
+| Retain | Low | Low | Low | 
+| Retire | Low | Low | Low |
+| Re-Host | Medium | Medium | Medium |
+| Relocate | Medium | Medium | Medium |
+| Re-Platform | Medium | Medium | Medium |
+| Re-Purchase | High | High | High |
+| Refactor | High | High | High |
+
 
 ---
 
