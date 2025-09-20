@@ -9,3 +9,11 @@ vSphere: VMware’s virtualization platform, built on ESXi hypervisors. It provi
 
 ## AWS Transform
 First agentic AI Service for large-scale Migration and modernization
+
+
+Tabby Ward and Prasad 
+
+## network Conversion
+- VMware vSPhere (RVTools file)
+- VMWare NSX 
+
