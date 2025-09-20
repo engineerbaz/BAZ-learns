@@ -27,3 +27,9 @@ Tabby Ward and Prasad
 - Migration Strategy
 - Documentation
 - Operations & support
+
+
+---
+
+<img width="1387" height="875" alt="image" src="https://github.com/user-attachments/assets/c7c4d82e-d226-48c2-914b-e59be6925592" />
+--
