@@ -17,3 +17,13 @@ Tabby Ward and Prasad
 - VMware vSPhere (RVTools file)
 - VMWare NSX 
 
+## Workload Discovery Strategy
+- Pre-Meeting 
+  - Review any existing Documentation
+  - Prepare Questionaire
+  - Invite Stackholder
+- Workload Assessment
+- Technical Deep Dive 
+- Migration Strategy
+- Documentation
+- Operations & support
