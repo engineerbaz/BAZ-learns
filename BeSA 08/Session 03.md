@@ -34,7 +34,8 @@ Tabby Ward and Prasad
 - Migration Strategy
   - 7 R's 
   - Migration Tool
-  - Self-Managed Migration vs Partner-managed migration 
+  - Self-Managed Migration vs Partner-managed migration.
+  -  
 - Documentation
   - Document target Architecture
   - Outline Action item
@@ -47,3 +48,10 @@ Tabby Ward and Prasad
 
 <img width="1387" height="875" alt="image" src="https://github.com/user-attachments/assets/c7c4d82e-d226-48c2-914b-e59be6925592" />
 --
+
+
+Code 
+
+unique_id=$(date +%Y%m%d%H%M%S)
+session_id=03
+git add . && git commit -m "Update: $session_id - ID: $unique_id"
