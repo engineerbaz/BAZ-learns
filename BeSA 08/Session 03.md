@@ -34,7 +34,7 @@ Tabby Ward and Prasad
 - Migration Strategy
   - 7 R's 
   - Migration Tool
-  - Self-Managed Migration vs Partner managed migration 
+  - Self-Managed Migration vs Partner-managed migration 
 - Documentation
   - Document target Architecture
   - Outline Action item
