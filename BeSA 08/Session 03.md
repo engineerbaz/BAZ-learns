@@ -43,15 +43,18 @@ Tabby Ward and Prasad
   - Monitoring Tool
   - Customer support vs Partner support
 
-
 ---
-
 <img width="1387" height="875" alt="image" src="https://github.com/user-attachments/assets/c7c4d82e-d226-48c2-914b-e59be6925592" />
 --
+RPO Recovery Point Objective, RTO- Recovery Time Objective
 
 
+
+
+==========
 Code 
 
 unique_id=$(date +%Y%m%d%H%M%S)
 session_id=03
-git add . && git commit -m "Update: $session_id - ID: $unique_id"
+file_name=$(git diff --name-only)
+git add . && git commit -m "Update: $file_name - ID: $unique_id"
