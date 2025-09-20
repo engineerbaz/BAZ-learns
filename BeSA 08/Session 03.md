@@ -23,10 +23,24 @@ Tabby Ward and Prasad
   - Prepare Questionaire
   - Invite Stackholder
 - Workload Assessment
+  - Infrastructure Inventory
+  - Application portfolio
+  - Security & Compilance 
+  - Business Case creation
 - Technical Deep Dive 
+  - Architecture Review
+  - Performance Review
+  - High Availability and Disaster Recovery
 - Migration Strategy
+  - 7 R's 
+  - Migration Tool
+  - Self Managed Migration vs Partner managed migration 
 - Documentation
+  - Document target Architecture
+  - Outline Action item
 - Operations & support
+  - Monitoring Tool
+  - Customer support vs Partner support
 
 
 ---
