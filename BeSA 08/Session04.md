@@ -19,3 +19,11 @@ Helps you you migrate relational databases
 
 ---
  **Full Load** - One-time migration of existing data• **Change Data Capture (CDC)** - Continuous replication of ongoing changes• **Full Load + CDC** - Initial migration follow
+
+ ==========
+Code 
+
+unique_id=$(date +%Y%m%d%H%M%S)
+session_id=04
+file_name=$(git diff --name-only)
+git add . && git commit -m "Update: $file_name Session:04 - ID: $unique_id"
