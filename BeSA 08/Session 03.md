@@ -1,10 +1,36 @@
 # Session 03
 
+## VMware Software Defined Data Center (SDDC)
+
+- vCenter - Management
+- VM - Vitual Machines
+- vSAN - Storage 
+- vSphere - ESXi HyperVisor 
+- NSX - Network
+
+
 # VMWare Migration
 
-MGN - VM to EC2vMotion / HCX - VM to VM
-
+MGN - VM to EC2 vMotion / HCX - VM to VM
 vSphere: VMware’s virtualization platform, built on ESXi hypervisors. It provides the foundation for creating and running virtual machines (VMs).
+
+Regions
+- Amazon EVS - Relocate
+- Amazon EC2 - Rehost
+- Container - Replatform 
+- Managed Service - Replatform
+- Modern App - Refactor 
+
+AWS On-Prem 
+- AWS Outpost
+- Manged Service 
+- Container 
+- EC2
+
+Partner 
+- Nutanix Cloud Cluster NC2
+- RedHat OpenShift on AWS (RoSA)
+
 
 
 ## AWS Transform
