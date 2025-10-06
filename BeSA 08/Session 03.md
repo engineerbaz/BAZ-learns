@@ -11,7 +11,8 @@
 
 # VMWare Migration
 
-MGN - VM to EC2 vMotion / HCX - VM to VM
+MGN - VM to EC2
+vMotion / HCX - VM to VM
 vSphere: VMware’s virtualization platform, built on ESXi hypervisors. It provides the foundation for creating and running virtual machines (VMs).
 
 Regions
@@ -31,10 +32,16 @@ Partner
 - Nutanix Cloud Cluster NC2
 - RedHat OpenShift on AWS (RoSA)
 
+## EVS 
+Seamless experience, VMware to AWS 
 
 
 ## AWS Transform
 First agentic AI Service for large-scale Migration and modernization
+- Assessment build a bussines 
+- VMware agent to migrating to EC2 
+- Mainframe agent for modernization IBM z/OS Application
+- .NET modernization of windows based .NET Application to Linux 
 
 
 Tabby Ward and Prasad 
