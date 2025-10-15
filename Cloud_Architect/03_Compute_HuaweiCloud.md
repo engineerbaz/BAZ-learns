@@ -8,9 +8,9 @@ ECS are Virtual machines on cloud, where BMS (Bare Metal Server) are dedicated s
 BMS are good for dedicated tasks. 
 
 1. VPC Interface (for connectivity within VPC [logical connection])
-2. High Speed Network (internal network, east wast traffic, layer2 only, Doesnt support EIP, SG, VPNs. DNS, Direct Connect)
+2. High Speed Network (internal network in same AZ, east wast traffic, layer2 only, Doesnt support EIP, SG, VPNs. DNS, Direct Connect)
 3. Enhance High Speed Network (High quality, speed and low latency for internal network for BMS each other communicate each other )
-4. User Defined VLAN ()
+4. User Defined VLAN (Allocate VLAN subnets to isolate traffic, user-defined VLAN NICs are in pairs, can configure NIC Bonds for HA)
 5. InfiiniBrand (For HPC project, low latency and high Bandwidth - Works between servers for duplication, replication)
 
 ## IMS
@@ -75,9 +75,11 @@ Cloud Container Engine, a managed Kubernetes Service.
 ### Configuration process
 Start --> CCE COnsole --> Create Cluster --> Deploy Workload --> End
 
-CCE Cluster can be upgraded, but not revert back. 
-CCE Cluster with BMS or nodes with Private images , CCE Turbo cluster and Kunpeng Cluster can not be upgraded.
+- CCE Cluster can be upgraded, but not revert back. 
+- CCE Cluster with BMS or nodes with Private images , CCE Turbo cluster and Kunpeng Cluster can not be upgraded.
 
+### FunctionGraph
+Allows you to run code without provisioning or managing server 
 
 ## Security Group
 - Protect instances like ECSs, databases, and containers
