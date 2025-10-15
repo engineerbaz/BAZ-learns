@@ -5,6 +5,13 @@
 - DES (Data Express Service) Massive Data 
 - CBR 
 
+*Block Storage* maps entire raw disk space to a server
+5 disks in disk array can be divided into several logical disks, which are then mapped to server, After partitioning and formatting and mounting on server, the data is successfully stored.
+
+*File Storage* is like a shared folder in a file system. Use for data backup and Archive
+
+*Object Storage* leverage both, offers fast, direct disk access,and Distributed file Sharing
+
 ## EVS 
 Elastic Volume Service offers block stroage for cloud server.
 
