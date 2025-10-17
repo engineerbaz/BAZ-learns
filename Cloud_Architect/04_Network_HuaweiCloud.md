@@ -98,6 +98,8 @@ VPN can be used for
 - Add a DNAT rule for a specific server.
 - Port ranges from 1 to 65,535
 
+#### Virtual IP
+Virtual IP can be shared among multiple ECSs. Used for HA as they make active/standby ECS switchover possible
 
 ----
 
