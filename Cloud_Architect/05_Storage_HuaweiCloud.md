@@ -55,6 +55,7 @@ Elastic Volume Service offers block stroage for cloud server.
 **Data Rebuild**
 If a physical server or disk is faulty, storage system Automatically Rebuild data. 
 
+-- Shared EVS can be attached with 16 Servers in same AZ. 
 
 -- 
 #### Workig on EVS 
