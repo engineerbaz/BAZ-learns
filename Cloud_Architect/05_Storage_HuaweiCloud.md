@@ -90,7 +90,8 @@ Object Storage Service for optimized for storing massive amount of data and prov
 - AK as Access Key
 - SK is Security Key
 - AK/SK based encryption to authhenticate a request sender.
-- Error 4-3 code is returned if no acccess.
+- Error 403 code is returned if no acccess.
+- Code 201 for successful request
 
 ### Appkication Scienario
 - Big Data Analytics 
@@ -105,7 +106,8 @@ Object Storage Service for optimized for storing massive amount of data and prov
 - obsutil 
 - obsfs 
 
-**Server Side Encryption** OBS encrypt object before saving on server 
+**Server Side Encryption** OBS encrypt object before saving on server.
+**User-Defined Domain Name** If user wants to migrate files from Website to OBS and still want to use their own website link for accessing file stored in OBDS, they can bind a user-defined domain name to an OBS bucket.
 
 **Cross Region Replication** provides diasaster recovery across regions, with replication rules configured, OBS automatically and asynchronously replicates data from a source bucket to a destination bucket in other region.
  
@@ -146,9 +148,19 @@ Scalable File Service provides reliable , High Performance shared file storage h
 `mkdir /mounting-point` create directory for mounting point 
 ``mount -t nfs -o vers=3 timeo=600 file-sys-domain-name mount-point`` mount File System to server (Linux Server using NFS v3)
 
+For unmount the file system and delete , Run ``unmount /mount-point``
+
 **For Windows** Using CIFS
 Start --> right click Computer --> Map Network drive <br> 
 Write ``\\file-sys-domain-name\path``
+
+For unmount, Do right Click and click *disconnect* 
+
+--
+Using SFS
+Multiple VPCs can be configured for an SFS file system so that servers belonging to different VPCs can share the same file system
+
+--
 
 #### Usuage of SFS 
 **Sharing data between Linux & Windows ECSs** <br>
