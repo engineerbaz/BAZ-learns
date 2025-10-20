@@ -12,6 +12,31 @@
 **non-relational database**
 - referes to a non-relational data storage system not compliant with ACID properties
 
+**GuassDB** isn an open-source database designed for SME. 
+- GuassDB developed by Huawei
+
+
+Relational Database
+- OLTP 
+  - GuassDB (For openGuass) - RDS for MySQL
+  - GuassDB (for MySQL)
+- OLAP
+  - GuassDB (DWS) - RDS for PostgreSQL
+
+Non-relational
+- DDS Community edition 
+  - GuassDB (for Mongo)
+  - GuassDB (for Cassandara)
+  - GuassDB (for Redis)
+  - GuassDB (for Influx)
+
+
+**Database Tools**
+- Distributed Database Midddleware (DMS)
+- Data Replication Servcie (DRS)
+- Database and Application Migration (UGO)
+- Data Admin Servcie (DAS)
+
 ### RDS for MySQL 
 MySQL world's most popular open source relational database.
 - Works with LAMP (Linux, Apache, PHP)
@@ -21,14 +46,14 @@ MySQL world's most popular open source relational database.
 - Efficiency : Web based Management console provides an easy way to create, scale, monitor and operate DB instance
 - Reliablity: Enhanced semi-synchronous replication prevents data loss. Automatic failover takes only a few seconds, ensuring a low recovery time object (RTO)
 
-### Arcgitecture 
+### Architecture 
 DBA and Delivery & O&M Personals can manage and deploy 
 - Instance Management 
 - Log Management
 - 732 days retention time.
 
 
-#### Appkication Scienario RDS for MySQL 
+#### Application Scienario RDS for MySQL 
 - User of other cloud vendor
 - fast growing start ups 
 - Internet, ecommerce and game 
@@ -57,7 +82,7 @@ Architecture is much similar to MySQL
 
 **Application Scienario**
 - Mixed Mode Operations 
-  - OLTP & OLAP
+  - OLTP (Online Transaction Processing) & OLAP (Online Analytical Processing)
 - Multiple data models 
 - High Reliablity
 - Oracle Replacement
@@ -124,6 +149,8 @@ Send log via HTTP and HTTPS
 - Basic Protection (Common protection) 
 - Data Leak 
 - Defence again Zero Day Vulnerability
+- Web Temper Prevention 
+- Defense Against Zero-day Vulnerability
 
 ### DEW 
 - Data Encryption Workshop is a cloud data encryption service 
