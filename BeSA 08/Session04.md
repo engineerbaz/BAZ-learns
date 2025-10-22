@@ -62,9 +62,17 @@ At least one end point must be on AWS.
  **Change Data Capture (CDC)** - Continuous replication of ongoing changes• 
  **Full Load + CDC** - Initial migration follow
 
+ **Heterogenous Database** needs schema Conversion, can be used AWS Schema Conversion Tool (SCT)
+ Migration from different Database like Oracle to MySQL.
+
+ **Schema** Way to storing data. 
+- AWS SCT is a stand-alone utility that allowus you to convert your existing database schema from one database engine to another. 
+- For Heterogenous conversion, need schema conversion using SCT and then DMS can be used. 
+
+
  ==========
 
- 
+
 Code :::
 
 unique_id=$(date +%Y%m%d%H%M%S)
