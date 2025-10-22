@@ -50,7 +50,6 @@ AWS DMS as Replication on EC2 (replication instance)
 At least one end point must be on AWS.
 
 
-
 **Replication Types** 
 - Migrate existing data (Full load only)
   - Perform a one-time migration from source to target
@@ -64,6 +63,8 @@ At least one end point must be on AWS.
  **Full Load + CDC** - Initial migration follow
 
  ==========
+
+ 
 Code :::
 
 unique_id=$(date +%Y%m%d%H%M%S)
