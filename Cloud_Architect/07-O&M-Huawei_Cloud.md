@@ -12,8 +12,8 @@
 - Enterprise Office 
 
 **Panels** to view core metric and compare Performance data of , up to 20 panels. 
-Metric is a time-dependent variable .
-Server Monitoring
+**Metric** is a qualitative value of a resource dimensionon the cloud, it is time-dependent variable .
+**Server Monitoring**
 - Basic Monitoring
 - OS Monitoring
 - Process Monitoring 
@@ -25,6 +25,7 @@ Website Monitoring is available in a region for free.
 Event Monitoring, You can query system and custom Event reported to Cloud.
 
 ## LTS 
+LTS collects logs from hosts and cloud services for centralized management, and processes large volume of logs efficiently, securely and in real-time. 
 - Log Search and Statistic analysis
 
 
