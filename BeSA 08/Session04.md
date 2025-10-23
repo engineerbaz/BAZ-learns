@@ -23,7 +23,7 @@ AWS is largest number of Oracle Database
 In access phase, AWS Application Discovery Service`, then in Mobilize phase SCT can be used and later DMS can be use.
 ---
 
-Full backup/Restor 
+Full backup/Restore 
 - Microsoft SQL Server - Full and differential backup (.bak)
 - Oracle RMAN
 NAtive database HA 
@@ -34,6 +34,10 @@ NAtive database HA
 ### Transition Logs 
 Also known as Journal, database log, binary log, or audit log) records all transactions executed on a database.
 R/w --> Database --> RAM --> Transaction Log --> HDD 
+
+- allows DataBase to undo or redo Transaction in case of failure.
+- provides an audit trail of database activity
+
 
 **CDC (Change Data Capture)** is a specific technology that recognize, tracks and deliver data change in database.
 
