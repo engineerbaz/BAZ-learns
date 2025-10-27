@@ -17,3 +17,13 @@ BOth structure and diplomacy
 - Resource availability
 
 Be transparent, invovle all stakeholder. 
+
+**Balance Architecture and shortcut**
+Architectural design has long term 
+
+One-way door and Two-way Door 
+- One-way door is not reversible 
+- Two-way Door is reversible task 
+
+**Managing resistance of Architectural Change**
+- Understand reason (Technical)
