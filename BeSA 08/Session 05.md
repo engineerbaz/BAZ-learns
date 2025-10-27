@@ -1,9 +1,17 @@
 # Session 05 
-# Modernization
+# Modernization 
+refractoring of legacy technology by combining modern Infrastructure, Architecture, organization Patterns together to maximize resiliency, engineering efficiency and Business Agility.
 
+**Cloud Value Framework (SVF)**
+- Cost Saving 
+- Business Agility
+- Operational Resiience 
+- Staff productiviity 
 
-
-
+## Pillar of modernization
+- Technology & Architecture
+- People, Process & Culture
+- Ops & Governance at Scale
 
 
 ## typical IT Enviornment by Migration Pattern 
@@ -47,7 +55,7 @@
 - Independant SLA 
 - Built and deployed Independantly
   
-  
+
 
 
 
