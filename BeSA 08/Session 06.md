@@ -27,3 +27,5 @@ One-way door and Two-way Door
 
 **Managing resistance of Architectural Change**
 - Understand reason (Technical)
+
+==== Completed BeSA Course and got Certificate
