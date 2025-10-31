@@ -106,3 +106,8 @@ Allows you to run code without provisioning or managing server
 
 --
 Chapter 4 End
+
+----
+
+## Notes:
+If cloud-int isnt installed, ECS custom information cant be injected into ECS from private image 
