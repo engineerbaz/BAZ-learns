@@ -104,10 +104,10 @@ Allows you to run code without provisioning or managing server
 - Use Network ACLs to control traffic flowing in and out of entire subnets, providing an additional layer of security
 
 
---
+---
 Chapter 4 End
 
 ----
 
 ## Notes:
-If cloud-int isnt installed, ECS custom information cant be injected into ECS from private image 
+If cloud-int isnt installed, ECS custom information cant be injected into ECS from private image.
