@@ -6,3 +6,7 @@ New & planned Services
 - Application LB (L7)
 - Cloud Firewall
 - NAT Gateway & router
+
+
+
+`Secure NAT Gatway = NAT Gateway + Router + ACLs`
