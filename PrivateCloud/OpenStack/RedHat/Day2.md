@@ -7,6 +7,11 @@ New & planned Services
 - Cloud Firewall
 - NAT Gateway & router
 
+Available 
+- Cloud Firewall
+- ELB 
+- NAT Gatway
+
 
 
 `Secure NAT Gatway = NAT Gateway + Router + ACLs`
