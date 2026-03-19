@@ -10,3 +10,5 @@ New & planned Services
 
 
 `Secure NAT Gatway = NAT Gateway + Router + ACLs`
+
+writing from Vscode
