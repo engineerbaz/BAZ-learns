@@ -28,3 +28,5 @@ Run ```crc console``` to open console on webbrowser
 - verify `crc version`
 - Run `crc setup`
 - Start `crc start`
+
+Git Repo for reference : https://github.com/uguroktay/EX280-Certified-OpenShift-Administrator/tree/main/course_contents
