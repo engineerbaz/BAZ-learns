@@ -13,7 +13,7 @@ enable ```crc setup``` to start openshift setup
 
 After setup completes 
 
-<img width="407" height="203" alt="image" src="https://github.com/user-attachments/assets/f511b347-41ed-4360-b09f-2223df507a8d" />
+<img width="407" height="203" alt="image" src="https://github.com/user-attachments/assets/f511b347-41ed-4360-b09f-2223df507a8d" /> <br>
 
 
 Run ```crc console  --credentials``` to get account details
@@ -29,4 +29,9 @@ Run ```crc console``` to open console on webbrowser
 - Run `crc setup`
 - Start `crc start`
 
+---
+
 Git Repo for reference : https://github.com/uguroktay/EX280-Certified-OpenShift-Administrator/tree/main/course_contents
+
+---
+
