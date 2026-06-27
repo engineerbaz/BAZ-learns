@@ -58,3 +58,8 @@ For ```oc adm -h``` for advance Cluster management
 ---
 
 Run ``` oc get all ``` to get list of all respources
+
+
+```oc get pods -o custom-columns=NAME:.metadata.name, RSRC:.metadata.labels```
+
+```oc gets pods --field-selectors=status.phase=Running```
