@@ -1,4 +1,4 @@
 # RedHat OpenShift
 
  
-Go to redhat.com/openshift/create/local to download OpenShift Local
+Go to [redhat.com/openshift/create/local](url) to download OpenShift Local
