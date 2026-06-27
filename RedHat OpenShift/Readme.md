@@ -1,6 +1,7 @@
 # RedHat OpenShift
 
- 
+## Openshift Local 
+
 Go to [redhat.com/openshift/create/local](url) to download OpenShift Local
 
 <br>
@@ -35,3 +36,9 @@ Git Repo for reference : https://github.com/uguroktay/EX280-Certified-OpenShift-
 
 ---
 
+### OpenShift Webconsole
+
+Run ```oc get routes -n openshift-console``` 
+or run ``` oc whoami --show-console``` 
+
+or Run ``` crc console --credentials``` to get credentials
