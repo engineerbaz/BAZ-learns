@@ -42,3 +42,13 @@ Run ```oc get routes -n openshift-console```
 or run ``` oc whoami --show-console``` 
 
 or Run ``` crc console --credentials``` to get credentials
+
+### OpenShift CLI 
+
+Run ```oc status -n <project>``` to get status udpate
+
+```oc new-app --name=<name> --image=openshift/hello-openshift``` to create new app 
+
+``` oc api-resources``` for view all availale respources
+
+To get help ```oc help```
