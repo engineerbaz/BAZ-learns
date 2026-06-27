@@ -52,3 +52,9 @@ Run ```oc status -n <project>``` to get status udpate
 ``` oc api-resources``` for view all availale respources
 
 To get help ```oc help```
+
+For ```oc adm -h``` for advance Cluster management
+
+---
+
+Run ``` oc get all ``` to get list of all respources
