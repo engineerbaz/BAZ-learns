@@ -13,3 +13,24 @@
 | Host / VM metrics | OpenShift Metrics and Monitoring | vCenter, vRealize Operations |
 | ---   | ---   | --- |
  
+**How to Manage VM**
+- VMWare
+  - GUI-based VM management
+  - Multiple ways to access vCenter API namely Ansible, PowerCLI and SDK for Python and Java
+- OpenShift Virtualization
+  - GUI-based for creating and managing VMs
+  - developer and admin console provides access to VM-centeric management Feature
+  - OpenShift/Kubernetes API includes ability to create and Manage VMs, alos includes any scripting language or SDK which can use a REST API 
+  - In addition `kubectl` and `oc` CLI Tools, the `virtctl` simplifies VM management
+
+**How to Manage the Virtualization Environment?**
+- VMware
+  - Install ESXi to hypervisor nodes & configure basic network connectivity, use vCenter to join the nodes & configure additional properties
+  - Configuration can be done manually, semi-automated using DvSwitches and host profiles, and otherwise automated using traditional tools (Ansible, PowerCLI, etc.)
+
+- OpenShift Virtualization
+  - Deploying OpenShift to physical servers using full stack automation (IPI), Assisted Installer, or UPI
+  - Install OpenShift Virtualization Operator
+  - Configure with standard OpenShift methodologies
+    - Machine Config, NMstate, Low Latency tuning, Node Tuning Operator, etc.
+
