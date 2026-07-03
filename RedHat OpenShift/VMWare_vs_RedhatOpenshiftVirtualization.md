@@ -37,17 +37,27 @@
 **How to Connect VMs and containers/k8s?**
 - VMWare
   - Kubernetes is deployed in VMs to the vSphere enviornment
--   When using standard networking (DvSwitches) for VM connectivity, Pod-to-VM traffic traverses the k8s ingress/egress
--   When using NSX-T as the SDN, VM and containers can be connected to the same logical network.
--   Additional functionality e.g microsegmentation, for pods relies on NSX-T
+  - When using standard networking (DvSwitches) for VM connectivity, Pod-to-VM traffic traverses the k8s ingress/egress
+  - When using NSX-T as the SDN, VM and containers can be connected to the same logical network.
+  - Additional functionality e.g microsegmentation, for pods relies on NSX-T
 
 - OpenShift Virtulization
--  OSV uses the same SDN for both Pods and VMs, they are native peers.
--  VM access the same SDN features as Pods, including network policies, Service Mesh, service & route abstractions
--  VM can also connect directly to external L2 network, e.g VLAN or other networks definded using Multus. 
+  -  OSV uses the same SDN for both Pods and VMs, they are native peers.
+  -  VM access the same SDN features as Pods, including network policies, Service Mesh, service & route abstractions
+  -  VM can also connect directly to external L2 network, e.g VLAN or other networks definded using Multus. 
 
 
 
 ----
 
+|	OpenShift Virtualization  |	VMware |
+| --- | --- |
+| Infrastructure Automation | RHACM, Ansible, and GitOps | Aria Automation Config (SaltStack) and PowerShell | 
+| Application Automation |RHACM, Ansible, Pipelines, and GitOps |Aria Automation Orchestrator (vRealize Orchestrator) and Aria Automation (vRealize Automation) |
+|Networking | Multus / OVN-Kubernetes / Third party CNI | NSX |
+| Storage | ODF, Optimizing Storage and partner ecosystem for CSI | vSAN |
+| Observability | RHACM, OpenShift Logging & Metrics, Service Mesh, Distributed Tracing |Wavefront |
+| Data Protection | OpenShift API for Data Protection (OADP), Partner ecosystem |vSphere Replication, partner ecosystem |
 
+
+===
