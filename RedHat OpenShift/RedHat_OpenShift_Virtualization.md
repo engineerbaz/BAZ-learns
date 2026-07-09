@@ -86,3 +86,17 @@ RHOS-V uses the “container-native virtualization” technology maintained and 
 *KVM is not a technology exclusive to Red Hat; it is a mature technology and is widely used by technology providers such as Amazon Web Services (AWS) and Google Cloud.*
 
 ## Challenges addressed by OpenShift Virtualization
+
+- Reduce operational infrastructure consistency
+- innovate at speed 
+- scalability 
+- Security focused
+- Intergrated development tools
+
+Adderess following Challenges
+- Increasing cost and lock-in risk
+- complexity result
+- need for hybrid cloud agility and resiliance
+- difficulty achieving cloud scale 
+- lack of standardization
+
