@@ -20,3 +20,4 @@ With RHOS-V
 - faster deployment
 
 *Modernize your infrastructure today and Be ready for innovation tomorrow*
+
