@@ -72,3 +72,6 @@ Need to install the OpenShift Virtualization operator in order to access the fea
 - Many enterprizes applications still run in VMs , containers and VM often need to co-exist. 
 - Seek to apply the benefits of Kubernetes and cloud-native platforms to all applications
 - After broadcom acquired VMware in 2023, risk of cost increase
+
+
+<img width="1411" height="849" alt="image" src="https://github.com/user-attachments/assets/34a9d7cf-b081-49e2-b88a-e94574cc807c" />
