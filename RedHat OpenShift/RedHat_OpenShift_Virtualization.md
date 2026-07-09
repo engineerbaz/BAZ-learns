@@ -21,3 +21,54 @@ With RHOS-V
 
 *Modernize your infrastructure today and Be ready for innovation tomorrow*
 
+### RHOS-V Feature 
+- Included in RedHat OpenShift
+- Built on KubeVirt (Opensource)
+- Unified platform for running VM and containers
+- Performance & stability (Kernel-based-VM KVM)
+- Includes RedHat Linux
+- Supports Microsoft Windwos (guest through Microsoft Server Virtualization Validation Program SVVP)
+
+*OpenShift Virtualization is not a separate product, but a core feature of OpenShift*
+
+- Red Hat innovation brings cloud-native functionality to VMs; customers gain the benefits of Kubernetes without containerization.
+
+### How RHOS-V work
+- Creating & managing Linux and Windwos VMs 
+- Connecting VMs to consoles and CLIs
+- Importing & clonning existing VMs 
+- Managing Network interface controller and storage disks attached to VMs 
+- Live Migrating VMs between Nodes.
+
+Need to install the OpenShift Virtualization operator in order to access the feature from the OpenShift marketplace.
+
+
+### How RHOS-V delivers Business Values
+- VM Migration
+  - due to Vendor lock-in and risk of high cost 
+  - Use RedHat OpenShift Virtualization Engine (Feature of OpenShift)
+  - helps in 
+    - Reduce Cost 
+    - Mitigating Vendor lock-in
+    - simplify migration and management
+- VM Modernization
+  - want to move towards modern architecture
+  - helps in  
+    - increase cost saving 
+    - gain management consistency 
+    - enhance operational efficiency
+    - apply Cloud-Native practice to VMs 
+
+- OpenShift Virtualization and OpenShift Virtualization Engine are NOT synonymous. 
+
+- OpenShift Virtualization is a feature of OpenShift; OpenShift Virtualization Engine is a virtualization-focused edition of OpenShift. 
+
+### Market Trends
+
+- Hybrid 
+- Mix of Cloud-Native
+- s 
+- Market moving to Cloud-Native platforms and containerization
+- Many enterprizes applications still run in VMs , containers and VM often need to co-exist. 
+- Seek to apply the benefits of Kubernetes and cloud-native platforms to all applications
+- After broadcom acquired VMware in 2023, risk of cost increase
