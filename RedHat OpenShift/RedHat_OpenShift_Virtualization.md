@@ -76,3 +76,13 @@ Need to install the OpenShift Virtualization operator in order to access the fea
 <img width="1411" height="849" alt="image" src="https://github.com/user-attachments/assets/34a9d7cf-b081-49e2-b88a-e94574cc807c" />
 
 
+## KubeVirt
+RHOS-V uses the “container-native virtualization” technology maintained and developed upstream under the KubeVirt project, an open source incubating project CNCF  
+
+- KubeVirt project is to manage VMs alongside containers in Kubernetes. 
+- KVM hypervisor is itself a Linux process that could be containerized
+- enables KVM-based VM workloads to be managed as pods in Kubernetes.
+
+*KVM is not a technology exclusive to Red Hat; it is a mature technology and is widely used by technology providers such as Amazon Web Services (AWS) and Google Cloud.*
+
+## Challenges addressed by OpenShift Virtualization
