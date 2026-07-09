@@ -65,9 +65,8 @@ Need to install the OpenShift Virtualization operator in order to access the fea
 
 ### Market Trends
 
-- Hybrid 
-- Mix of Cloud-Native
-- s 
+- Hybrid world 
+- Mix of Cloud-Native & traditional application that needs to be Modernize.
 - Market moving to Cloud-Native platforms and containerization
 - Many enterprizes applications still run in VMs , containers and VM often need to co-exist. 
 - Seek to apply the benefits of Kubernetes and cloud-native platforms to all applications
@@ -75,3 +74,5 @@ Need to install the OpenShift Virtualization operator in order to access the fea
 
 
 <img width="1411" height="849" alt="image" src="https://github.com/user-attachments/assets/34a9d7cf-b081-49e2-b88a-e94574cc807c" />
+
+
