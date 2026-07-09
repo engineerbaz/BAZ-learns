@@ -50,8 +50,8 @@
 
 ----
 
-|	OpenShift Virtualization  |	VMware |
-| --- | --- |
+| |	OpenShift Virtualization  |	VMware |
+| ---- | --- | --- |
 | Infrastructure Automation | RHACM, Ansible, and GitOps | Aria Automation Config (SaltStack) and PowerShell | 
 | Application Automation |RHACM, Ansible, Pipelines, and GitOps |Aria Automation Orchestrator (vRealize Orchestrator) and Aria Automation (vRealize Automation) |
 |Networking | Multus / OVN-Kubernetes / Third party CNI | NSX |
