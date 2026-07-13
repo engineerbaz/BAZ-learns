@@ -100,7 +100,10 @@ Adderess following Challenges
 - difficulty achieving cloud scale 
 - lack of standardization
 
-## Creation and management of Linux and Windows VMs
+
+## Features of OpenShift Virtualization
+
+### Creation and management of Linux and Windows VMs
 
 We can leverage Kubernetes features on OpenShift Virtualization in both VM and container-based application
 - includes VM templates for RHEL, CentOS, Fedora, and Windows
@@ -108,3 +111,12 @@ We can leverage Kubernetes features on OpenShift Virtualization in both VM and c
 <img width="1201" height="710" alt="image" src="https://github.com/user-attachments/assets/473aea2b-c4ad-48f6-83bb-16c17f43805f" />
 
 - 
+- We can use VMs coming from OpenShift Virtualization for running OpenShift worker nodes in VMs
+
+### Migration Toolkit for Virtualization 
+MTV is included with OpenShift Virtualization and allows for warm migration of VMs, meaning most of the data is copied while the source VMs are running.
+- MTV can migrate VM from VMware vSphere and as well as VM from one OpenShift Cluster to another 
+
+A **pre-migration hook** is an Ansible playbook that runs against the guest VM prior to any migration attempt by MTV, and a post-migration hook is a playbook that runs against the guest VM immediately after the migration has completed.
+
+### Software-defined storage  
