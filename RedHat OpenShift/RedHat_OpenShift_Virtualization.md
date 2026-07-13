@@ -123,3 +123,20 @@ A **pre-migration hook** is an Ansible playbook that runs against the guest VM p
 - SDS is a storage architecture seprates storage software from its hardware
 - Can run on both on server's standard OS and in a VM (some SDS products can run across containers)
 - OpenShift Virtualization uses native Kubernetes storage concepts of StorageClass, PVC and PV. 
+
+### Backup, disaster recovery, and failover
+- Backup associated with OpenShift Virtualization include OpenShift API for Data Protection (OADP)
+- DR suportes two solutions 
+  - Metro DR 
+    - uses synchronous replication, writes to storage at both the primary & secondary
+    - data always synchronized between sites 
+    - storage provider responsible for ensuring synchronizationand environment must meet throughput and latency 
+  - Regional DR
+    - uses Asychronous replication
+    - data of primary sites is synchronized with secondary site on regular basis.
+    - RPO depends on synchronizationand schedule 
+- Failover 
+  - Orchestrated by RH Advanced Cluster Managemnet for K8s , runs on hub Cluster
+  - Solution is provided by the software-defined storage layer (e.g., Red Hat OpenShift Data Foundation or Portworx) and not by OpenShift Virtualization. RH ACM  applies to only ODF and not Portworx. 
+  - Microsoft clustering for DR scienario 
+  - Can protect MS SQL , SharePoint or windows based workload using Windwos-native technology whendeployed on OpenShift virtualization
