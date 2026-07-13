@@ -140,3 +140,12 @@ A **pre-migration hook** is an Ansible playbook that runs against the guest VM p
   - Solution is provided by the software-defined storage layer (e.g., Red Hat OpenShift Data Foundation or Portworx) and not by OpenShift Virtualization. RH ACM  applies to only ODF and not Portworx. 
   - Microsoft clustering for DR scienario 
   - Can protect MS SQL , SharePoint or windows based workload using Windwos-native technology whendeployed on OpenShift virtualization
+
+### Observability and monitoring
+- OpenShift Virtualization VM's Health Status 
+- OpenShift Container Platform Cluster Checkup Framework
+- Prometheus queris for virtual resources 
+- VM Custom metrics 
+- VM Health check 
+- Runbook
+ 
