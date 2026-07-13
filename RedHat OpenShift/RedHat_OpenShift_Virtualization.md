@@ -104,4 +104,7 @@ Adderess following Challenges
 
 We can leverage Kubernetes features on OpenShift Virtualization in both VM and container-based application
 - includes VM templates for RHEL, CentOS, Fedora, and Windows
+
+<img width="1201" height="710" alt="image" src="https://github.com/user-attachments/assets/473aea2b-c4ad-48f6-83bb-16c17f43805f" />
+
 - 
