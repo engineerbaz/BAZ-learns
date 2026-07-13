@@ -100,3 +100,8 @@ Adderess following Challenges
 - difficulty achieving cloud scale 
 - lack of standardization
 
+## Creation and management of Linux and Windows VMs
+
+We can leverage Kubernetes features on OpenShift Virtualization in both VM and container-based application
+- includes VM templates for RHEL, CentOS, Fedora, and Windows
+- 
