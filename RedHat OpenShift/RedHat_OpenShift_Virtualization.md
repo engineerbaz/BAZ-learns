@@ -120,3 +120,6 @@ MTV is included with OpenShift Virtualization and allows for warm migration of V
 A **pre-migration hook** is an Ansible playbook that runs against the guest VM prior to any migration attempt by MTV, and a post-migration hook is a playbook that runs against the guest VM immediately after the migration has completed.
 
 ### Software-defined storage  
+- SDS is a storage architecture seprates storage software from its hardware
+- Can run on both on server's standard OS and in a VM (some SDS products can run across containers)
+- OpenShift Virtualization uses native Kubernetes storage concepts of StorageClass, PVC and PV. 
