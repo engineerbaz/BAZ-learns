@@ -179,3 +179,31 @@ Redhat supports Open Hybrid Cloud, let give customer flexibility to run workload
 
 <img width="944" height="600" alt="image" src="https://github.com/user-attachments/assets/33a7c295-4143-4fa0-ac04-e5bde08c502f" />
 
+**Red Hat Portfolio**
+
+
+<img width="1712" height="770" alt="image" src="https://github.com/user-attachments/assets/5c08ed78-bd5f-4796-b627-73e568a0ebe9" />
+
+ *_OpenShift Virtualization is a feature of OpenShift and included with most OpenShift subscriptions and the Red Hat OpenShift Service on AWS (ROSA) cloud service_
+
+ #### Red Hat Ansible Automation Platform (RAAP) 
+ - Enable Organiztaions to manage and automate lifecycle of VM, and simplify migration.
+
+<img width="1022" height="532" alt="image" src="https://github.com/user-attachments/assets/487b4783-5716-4dae-8461-804020c6b02d" />
+
+#### Using Red Hat Advanced Cluster Management with OpenShift Virtualization
+VM Monitoring across all clusters.
+
+<img width="1008" height="555" alt="image" src="https://github.com/user-attachments/assets/4d974fc1-69f1-474b-bf67-859e1f01d099" />
+ 
+- individual VMs, users can dive into metrics covering configuration, resource consumption, and active alerts
+ 
+
+
+
+
+
+
+
+
+
