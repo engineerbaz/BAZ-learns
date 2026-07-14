@@ -148,4 +148,12 @@ A **pre-migration hook** is an Ansible playbook that runs against the guest VM p
 - VM Custom metrics 
 - VM Health check 
 - Runbook
- 
+
+## Why OpenShift Virtualization
+Ability to provide a single platform for managing both containerized workloads and traditional VMs, 
+- Unified management
+- Simplified migration
+- Faster time to production
+- Hybrid cloud support
+- Enterprise-grade security
+- DevOps integration
