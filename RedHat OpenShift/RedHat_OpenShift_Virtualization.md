@@ -170,3 +170,12 @@ A dedicated edition of Red Hat OpenShift focused solely on deploying, managing a
   - Ability to rehost and then refactor 
   - Datacenter exist
   - windows Modernization
+ 
+## OpenShift Virtualization and the Red Hat portfolio
+
+### Open hybrid cloud
+
+Redhat supports Open Hybrid Cloud, let give customer flexibility to run workload where it is best, be it barematel, public or private cloud or even edge. 
+
+<img width="944" height="600" alt="image" src="https://github.com/user-attachments/assets/33a7c295-4143-4fa0-ac04-e5bde08c502f" />
+
