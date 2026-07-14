@@ -157,3 +157,16 @@ Ability to provide a single platform for managing both containerized workloads a
 - Hybrid cloud support
 - Enterprise-grade security
 - DevOps integration
+
+### Red Hat OpenShift Virtualization Engine
+A dedicated edition of Red Hat OpenShift focused solely on deploying, managing and scaling VM (without integrating containers or cloud-native app capabilities)
+- Built on trusted Opensource technologies behind OpenShift virtualization (KVM hypervisor and KubeVirt)
+- provide seamless upgrade path to full suite of virtualization, container and cloud-native 
+- ACM (Advanced Cluster Managemnet) for virtualization for exclusively for VM management
+
+- Other editions i.e OpenShift Container Platform and OpenShift Platform Plus , enabling management of VMs in a hybrid cloud environment
+- If client looking to run VMs in the clloud can use Red Hat OpenShift Service on AWS (ROSA)
+  - faster adoption of OpenShift and public cloud
+  - Ability to rehost and then refactor 
+  - Datacenter exist
+  - windows Modernization
