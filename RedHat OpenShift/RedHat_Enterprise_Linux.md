@@ -102,3 +102,79 @@ Update package comes
 
 `dnf udpate --Security` only udpate packages related to Security
 `dnf udpate --sec-security=Critical`  udpate security related packages of critical level
+
+`dnf needs-restarting -r` for checking restart is needed .if no ouput then no restart needed. 
+
+### Managing Network 
+Network manager helps alot 
+
+Profile set of property to interface 
+
+`nmcli con show` to show connections
+`nmcli con show <profile-name>` to see details of connections
+
+** Best practice: enp7s0 = Ethernet Port 7 Slot 0 
+
+`nmcli connection add con-name <con-name> type ethernet ifname <enp7s0> ipv4.method manual ipv4.address "192.168.1.114/24" ipv4.gateway 192.168.1.1 ipv4.dns "8.8.8.8,1.1.1.1"` to add network connection
+
+`nmtui` network manager with UI 
+
+### System Startup services with systemd
+RedHat contributed to community 
+
+- service (runing app , demon)
+- socket (activating things and demands)
+- timer (for scheduling)
+- patch (watcing file and Directory)
+- target (grouping unit )
+
+
+** Best practice: `systemctl enable --now <service-name>` for starting and enabling service 
+
+`firewall-cmd --add-service http`
+
+** Best practice: !! means previous command 
+
+`!! --permenent` use add http rule in firewall permenently 
+
+systemctl restart http 
+^restar^stop - run last command with this option 
+
+
+### Deploying app runtime to host simple app 
+
+- Installing Opertaing system 
+- Update 
+- Patch 
+- troublesheet 
+
+
+### bootc 
+Make image adn point it. 
+
+`ssh bootc` shell to bootc connection 
+`bootc status` show status of boootc
+
+open bootc host on browser
+
+`bootc switch <image-version>` change img
+
+#### Image Builder Tools 
+Comes with ith redhat subscription
+- Image Builder 
+Go to `console.redhat.com` then insight to RHEL section
+
+Vulnerability Management
+- security
+- compliance 
+
+`sudo insights-client --register` to register
+
+
+#### Cockpit Web Console 
+Web based and can be accessed from anywhere 
+
+sudo systemctl --now cockpit.socket
+
+Goto browser `rhel10:9090`
+
