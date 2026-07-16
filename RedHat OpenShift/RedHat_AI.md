@@ -30,4 +30,8 @@ IBM Granite AI foundation models
 
 The LAB method allows users to customize an LLM with domain-specific knowledge and skills. InstructLab uses this to generate high-quality synthetic data that is used to train the LLM.
 
-### RHEL 
+### AI & ML libraries in RHEL
+support for popular open source AI/ML libraries like PyTorch and TensorFlow. 
+
+- Hardware optimization
+  - close integration with GPU, TPU and other accelerators, RHEL AI ensures machine learning models run with optimal performance.
