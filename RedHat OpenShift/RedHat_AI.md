@@ -19,3 +19,13 @@ Red Hat AI platforms
     - includes RHEL AI with LLM
 
 <img width="1202" height="617" alt="image" src="https://github.com/user-attachments/assets/47c69962-97b1-4a2a-b0cb-3df9a1035929" />
+
+## Core Components and Deployment Models
+IBM Granite AI foundation models
+- The 20B parameter Granite base code model was used to train IBM watsonx Code Assistant (WCA).
+- The 20B parameter Granite base code model powers watsonx Code Assistant for Z, which helps enterprises transform COBOL applications.
+- IBM's Granite LLM was used to create the "Catch Me Up" feature, which provides personalized player stories and updates on Wimbledon matches.
+
+**InstructLab**, an IBM and Red Hat open source project, based on the Large-scale Alignment for chatbBots (LAB) method and aims to enhance LLMs used in generative AI applications by making fine-tuning of foundation models straight-forward and accessible.
+
+The LAB method allows users to customize an LLM with domain-specific knowledge and skills. InstructLab uses this to generate high-quality synthetic data that is used to train the LLM.
