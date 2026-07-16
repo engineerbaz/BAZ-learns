@@ -29,3 +29,5 @@ IBM Granite AI foundation models
 **InstructLab**, an IBM and Red Hat open source project, based on the Large-scale Alignment for chatbBots (LAB) method and aims to enhance LLMs used in generative AI applications by making fine-tuning of foundation models straight-forward and accessible.
 
 The LAB method allows users to customize an LLM with domain-specific knowledge and skills. InstructLab uses this to generate high-quality synthetic data that is used to train the LLM.
+
+### RHEL 
