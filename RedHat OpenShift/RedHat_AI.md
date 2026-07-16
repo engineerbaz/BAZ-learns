@@ -45,4 +45,6 @@ RHEL AI validated on the Dell PowerEdge servers with NVIDIA GPU configurations
 
 ### RHEL image mode
  RHEL offers a simplified approach to managing the RHEL operating system.
- - allows administrators to build a bootable container image in the same manner that a container image is built. 
+ - allows administrators to build a bootable container image in the same manner that a container image is built.
+
+<img width="1386" height="774" alt="image" src="https://github.com/user-attachments/assets/a3a19047-0a66-4743-ab0b-6697a74a6b1d" />
