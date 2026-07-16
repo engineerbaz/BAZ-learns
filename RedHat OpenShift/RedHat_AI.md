@@ -35,3 +35,4 @@ support for popular open source AI/ML libraries like PyTorch and TensorFlow.
 
 - Hardware optimization
   - close integration with GPU, TPU and other accelerators, RHEL AI ensures machine learning models run with optimal performance.
+
