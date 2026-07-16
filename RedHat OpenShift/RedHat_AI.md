@@ -18,4 +18,4 @@ Red Hat AI platforms
     - offer MLOPs capability and scale across hybrid-cloud
     - includes RHEL AI with LLM
 
-![alt text](image.png)
+<img width="1202" height="617" alt="image" src="https://github.com/user-attachments/assets/47c69962-97b1-4a2a-b0cb-3df9a1035929" />
