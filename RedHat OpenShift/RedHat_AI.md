@@ -40,3 +40,6 @@ RHEL AI validated on the Dell PowerEdge servers with NVIDIA GPU configurations
 - PowerEdge XE9680 with 8 x Nvidia H100 SXM GPU
 - PowerEdge 760xa with 4 x Nvidia H100 PCIe GPU with NVLink
 - PowerEdge 760xa with 4 x Nvidia L40S PCIe GPU with NVLink
+
+<img width="1846" height="748" alt="image" src="https://github.com/user-attachments/assets/642346d6-ad99-474f-9f4a-0e998cf2c157" />
+
