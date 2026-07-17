@@ -43,3 +43,7 @@ Average time to operationalize AI
 
 <img width="1415" height="685" alt="image" src="https://github.com/user-attachments/assets/dc724ae7-b79d-460e-b40e-aa277bc2bf07" />
 
+### RedHat 
+<img width="1510" height="964" alt="image" src="https://github.com/user-attachments/assets/5dd3b93c-09db-4da5-a888-5590b8679e8f" />
+
+
