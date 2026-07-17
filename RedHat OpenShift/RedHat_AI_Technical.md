@@ -28,3 +28,13 @@ Average time to operationalize AI
 
 
 *Poorly designed systems lead to failed AI Projects*
+
+| | Set Goals | Gather & prepare data | Develop model | Integrate models in app Dev  |  Model monitoring and management |
+| :---: | :---: | ---: | :---: |:---: |:---: |
+|Business leadership | ====== | ||||
+| Data Engineer | | ====== |  |||
+| Data Scientist | | | ====== |  |======||
+| ML Engineer | | |====== |======| ======= |
+| App Developer | | |  | ====== |====== |
+| IT Opertaions | |====== |====== |====== |====== |
+
