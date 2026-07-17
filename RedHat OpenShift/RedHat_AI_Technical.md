@@ -41,5 +41,5 @@ Average time to operationalize AI
 
 </div>
 
-<img width="1815" height="985" alt="image" src="https://github.com/user-attachments/assets/dc724ae7-b79d-460e-b40e-aa277bc2bf07" />
+<img width="1415" height="685" alt="image" src="https://github.com/user-attachments/assets/dc724ae7-b79d-460e-b40e-aa277bc2bf07" />
 
