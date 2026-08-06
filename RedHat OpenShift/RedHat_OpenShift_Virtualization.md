@@ -210,8 +210,12 @@ KubeVirt = KVM (Linux hypervisor) + Kubernetes
 - Government agency (150 Openshift cluster), currently VMs, and ready for cloud.
 
 
+Operators are native way to extends 
+
+CSI (Container Storage Interaction) 
+ 
 
 
-
-
-
+- Legacy Virtualization
+- infrastructure Modernization
+- DevOps & Modernization
