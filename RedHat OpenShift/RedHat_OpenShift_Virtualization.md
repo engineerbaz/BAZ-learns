@@ -199,7 +199,15 @@ VM Monitoring across all clusters.
 - individual VMs, users can dive into metrics covering configuration, resource consumption, and active alerts
  
 
+===================================
 
+Container & Virtualization together in a cloud-native way
+(union of K8s and KVM)
+KubeVirt = KVM (Linux hypervisor) + Kubernetes
+
+- Nvidia has 30+ DC, 28mill users, 100 Countries , 
+- Global Investment Bank, for container & VMs 
+- Government agency (150 Openshift cluster), currently VMs, and ready for cloud.
 
 
 
