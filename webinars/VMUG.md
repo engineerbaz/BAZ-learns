@@ -59,11 +59,11 @@ VCF 9 architecture
 
 
 ### VMWare Hands On Labs 
-[HandsOn Lab VMWare](labs.hol.vmware.com) 
+[HandsOn Lab VMWare](https://labs.hol.vmware.com/) 
 
 ![alt text](image-3.png)
 
-[VCF Planner ](vmware.github.io/vcf-upgrade-planner)
+[VCF Planner ](https://vmware.github.io/vcf-upgrade-planner)
 
 -----
 
