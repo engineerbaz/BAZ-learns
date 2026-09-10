@@ -47,3 +47,19 @@ VCF 9 architecture
 ![VCF architecture](image-2.png)
 
 
+## Developing Private Cloud Journey 
+- Accelerate Workload Delivery (Allows you to provisioning VM, Container on self service portal)
+- Infrastructure Capacity Management and Visibility 
+- Drive Security and consistency with Platform-wide Fleet Management 
+- Scale Muti-tenent and multi-Org Operations 
+- Reduce Compliance and policy violation 
+- Drive DevOps agility 
+- Performance optimization and Intelligent Troubleshooting 
+- Reduce TCO, Improve Cost Management , with Chargeback and showback
+
+
+### VMWare Hands On Labs 
+[HandsOn Lab VMWare](labs.hol.vmware.com) 
+
+![alt text](image-3.png)
+
