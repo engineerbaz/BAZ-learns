@@ -2,7 +2,7 @@
 2026-09-10 15:00 
 
 ## VMWare Cloud Foundation Platform
-Trainer : Varghese Philipose
+Trainer : Varghese Philipose & Ivan Rahabook
 
 AI is reshaping Enterprise Infrastructure
 
@@ -62,4 +62,8 @@ VCF 9 architecture
 [HandsOn Lab VMWare](labs.hol.vmware.com) 
 
 ![alt text](image-3.png)
+
+[VCF Planner ](vmware.github.io/vcf-upgrade-planner)
+
+-----
 
